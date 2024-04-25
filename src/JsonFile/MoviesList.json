@@ -1,0 +1,40 @@
+{
+    "movies": [
+        {
+            "id":1,
+            "title" : "Spider-Man: Across The Spider-Verse",
+            "IMDb" : "7.5/10",
+            "posterUrl":"https://deadline.com/wp-content/uploads/2023/06/MCDSPMA_SP065-e1697556774763.jpg" 
+        },
+        {
+            "id":2,
+            "title": "The Batman",
+            "IMDb":"8.3/10",
+            "posterUrl":"https://www.thebatman.com/images/share.jpg"
+        },
+        {
+            "id":3,
+            "title":"Pirates of the Caribbean",
+            "IMDb":"8/10",
+            "posterUrl":"https://imageio.forbes.com/specials-images/imageserve/6584c9e4ccf6bbfa8a131eb0/-Pirates-of-the-Caribbean--On-Stranger-Tides--Themed--Pirates-Day--At-Hot-Topic-Store/0x0.jpg?crop=3000,1689,x0,y173,safe&height=400&width=711&fit=bounds"
+        },
+        {
+            "id":4,
+            "title":"The book of ELI",
+            "IMDb":"8.4/10",
+            "posterUrl":"https://images.slivcdn.com/videoasset_images/thebookofeli_landscape_thumb.jpg?h=394&w=708&q=high"
+        },
+        {
+            "id":5,
+            "title":"Seven Pounds",
+            "IMDb":"8.0/10",
+            "posterUrl":"https://origin-staticv2.sonyliv.com/videoasset_images/sevenpounds_landscape_thumb.jpg"
+        },
+        {
+            "id":6,
+            "title":"A dog's journey",
+            "IMDb":"9.3/10",
+            "posterUrl":"https://movies.universalpictures.com/media/01-adj-dm-mobile-banner-1080x745-rr-f01-012819-5c4fc3613073b-1-5d3793be2413a-1.jpg"
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+.log-btn {
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  & h1 {
+    margin-bottom: 5px;
+    color: #e1e6f0;
+  }
+  & p {
+    margin-top: 10px;
+    font-size: 19px;
+    color: #8f98b2;
+  }
+  & button {
+    width: 250px;
+    padding: 15px;
+    font-weight: 600;
+    font-size: 20px;
+    color: #f9f9f9;
+    background-color: #0630a3;
+    border: 1px solid transparent;
+    border-radius: 5px;
+    cursor: pointer;
+    &:hover {
+      background-color: #0737ae;
+    }
+  }
+}

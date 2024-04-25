@@ -1,0 +1,82 @@
+{
+  "users": [
+    {
+      "id": "37d3",
+      "phoneNo": "916382754190",
+      "Otp": "7468",
+      "expTime": "25/04/2024, 07:42 pm",
+      "username": "jayadev",
+      "age": "20",
+      "gender": "Male"
+    },
+    {
+      "id": "8574",
+      "phoneNo": "916382754191",
+      "Otp": "2743",
+      "expTime": "23/04/2024, 09:09 pm",
+      "username": "Admin",
+      "age": "11",
+      "gender": "Male"
+    },
+    {
+      "id": "5937",
+      "phoneNo": "916382754133",
+      "Otp": "6277",
+      "expTime": "24/04/2024, 10:39 am"
+    },
+    {
+      "id": "9ac5",
+      "phoneNo": "916382754188",
+      "Otp": "6458",
+      "expTime": "24/04/2024, 12:03 pm",
+      "username": "Ranjith",
+      "age": "20",
+      "gender": "Male"
+    },
+    {
+      "id": "4397",
+      "phoneNo": "916382754111",
+      "Otp": "7388",
+      "expTime": "24/04/2024, 12:08 pm",
+      "username": "ravi",
+      "age": "20",
+      "gender": "Male"
+    },
+    {
+      "id": "1d18",
+      "phoneNo": "919874563210",
+      "Otp": "6174",
+      "expTime": "24/04/2024, 12:12 pm",
+      "username": "Guna",
+      "age": "10",
+      "gender": "Other"
+    },
+    {
+      "id": "4d0f",
+      "phoneNo": "918562341790",
+      "Otp": "3149",
+      "expTime": "24/04/2024, 08:20 pm",
+      "username": "jayadev",
+      "age": "20",
+      "gender": "Male"
+    },
+    {
+      "id": "4408",
+      "phoneNo": "911236547890",
+      "Otp": "7667",
+      "expTime": "25/04/2024, 06:11 pm",
+      "username": "",
+      "age": 0,
+      "gender": ""
+    },
+    {
+      "id": "ed94",
+      "phoneNo": "917531698420",
+      "Otp": "8158",
+      "expTime": "25/04/2024, 06:12 pm",
+      "username": "jayadev",
+      "age": "99",
+      "gender": "Male"
+    }
+  ]
+}

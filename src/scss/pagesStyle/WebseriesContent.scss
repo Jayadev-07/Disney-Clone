@@ -1,0 +1,75 @@
+.season-section {
+  .season-holder {
+    position: relative;
+    margin-left: 10rem;
+    display: grid;
+    width: 60%;
+    grid-template-columns: repeat(2, 1fr);
+    .series-seasons {
+      margin-top: 20px;
+      width: 350px;
+      padding: 10px 20px;
+      border-radius: 5px;
+      background-color: #21242f;
+    }
+  }
+  .details {
+    width: 350px;
+    height: 100vh;
+    top: 0;
+    right: 0;
+    position: fixed;
+    display: flex;
+    justify-content: center;
+    .img-div {
+      margin-top: 5rem;
+      width: 250px;
+      height: 350px;
+      display: flex;
+      border-radius: 4px;
+      & img {
+        border-radius: 4px;
+      }
+    }
+    & p {
+      margin-top: 2rem;
+      font-size: 25px;
+    }
+  }
+  .episode-container {
+    margin-left: 10rem;
+    margin-top: 5rem;
+    margin-bottom: 5rem;
+    background-color: #21242f;
+    width: 720px;
+    padding: 10px 20px;
+    border-radius: 5px;
+    & h1 {
+      color: white;
+    }
+    .episodes {
+      margin-top: 20px;
+      & p {
+        color: #92a2b3;
+        & span {
+          color: white;
+          font-weight: 600;
+        }
+      }
+    }
+    & button {
+      padding: 10px;
+      border-radius: 4px;
+      outline: none;
+      border: none;
+      cursor: pointer;
+      background-color: #0063e5;
+      color: white;
+      font-size: 15px;
+      font-weight: 600;
+      &:hover {
+        background-color: #0483ee;
+      }
+    }
+  }
+}

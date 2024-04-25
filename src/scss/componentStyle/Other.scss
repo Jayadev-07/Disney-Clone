@@ -1,0 +1,33 @@
+.other-container {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  div{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  & h1 {
+    font-size: 40px;
+  }
+  & button {
+    width: 180px;
+    padding: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: none;
+    font-size: 22px;
+    color: white;
+    font-weight: 600;
+    border-radius: 10px;
+    background-color: #0636ac;
+    cursor: pointer;
+    &:hover {
+      background-color: #0739b7;
+    }
+  }
+}
+}

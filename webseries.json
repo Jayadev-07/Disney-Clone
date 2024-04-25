@@ -1,0 +1,1432 @@
+{
+  "webSeries": [
+    {
+      "id": 1,
+      "title": "Stranger Things",
+      "genre": ["Science Fiction", "Horror", "Thriller"],
+      "releaseYear": 2016,
+      "thumnail": "https://wallpapercave.com/wp/wp8988425.jpg",
+      "seasons": [
+        {
+          "seasonName": "Season 1",
+          "numberOfEpisodes": 3,
+          "description": "A group of kids investigates supernatural occurrences in their town.",
+          "rating": 8.7,
+          "thumnail": "https://wallpapercave.com/wp/wp8988425.jpg",
+          "episodes": [
+            {
+              "episodeNumber": 1,
+              "source":"https://i.imgur.com/JCavjGh.mp4",
+              "title": "Chapter One: The Vanishing of Will Byers",
+              "duration": "50 minutes",
+              "plot": "A young boy disappears in a small town, uncovering a series of supernatural mysteries."
+            },
+            {
+              "episodeNumber": 2,
+              "source":"https://i.imgur.com/JCavjGh.mp4",
+              "title": "Chapter Two: The Weirdo on Maple Street",
+              "duration": "55 minutes",
+              "plot": "As the town preps for Halloween, a high-scoring rival shakes things up at the arcade, and a skeptical Hopper inspects a field of rotting pumpkins."
+            },
+            {
+              "episodeNumber": 3,
+              "source":"https://i.imgur.com/JCavjGh.mp4",
+              "title": "Chapter Three: Holly, Jolly",
+              "duration": "52 minutes",
+              "plot": "An increasingly concerned Nancy looks for Barb and finds out what Jonathan's been up to. Joyce is convinced Will is trying to talk to her."
+            }
+          ]
+        },
+        {
+          "seasonName": "Season 2",
+          "numberOfEpisodes": 4,
+          "description": "The group faces new challenges and mysteries as they continue to navigate the supernatural realm.",
+          "rating": 8.8,
+          "thumnail": "https://wallpapercave.com/wp/wp8988425.jpg",
+          "episodes": [
+            {
+              "episodeNumber": 1,
+              "source":"https://i.imgur.com/JCavjGh.mp4",
+              "title": "Chapter One: MADMAX",
+              "duration": "54 minutes",
+              "plot": "As the town preps for Halloween, a high-scoring rival shakes things up at the arcade, and a skeptical Hopper inspects a field of rotting pumpkins."
+            },
+            {
+              "episodeNumber": 2,
+              "source":"https://i.imgur.com/JCavjGh.mp4",
+              "title": "Chapter Two: Trick or Treat, Freak",
+              "duration": "47 minutes",
+              "plot": "After Will sees something terrible on trick-or-treat night, Mike wonders whether Eleven's still out there. Nancy wrestles with the truth about Barb."
+            },
+            {
+              "episodeNumber": 3,
+              "source":"https://i.imgur.com/JCavjGh.mp4",
+              "title": "Chapter Three: The Pollywog",
+              "duration": "50 minutes",
+              "plot": "Dustin adopts a strange new pet, and Eleven grows increasingly impatient. A well-meaning Bob urges Will to stand up to his fears."
+            },
+            {
+              "episodeNumber": 4,
+              "source":"https://i.imgur.com/JCavjGh.mp4",
+              "title": "Chapter Four: Will the Wise",
+              "duration": "47 minutes",
+              "plot": "An ailing Will opens up to Joyce -- with disturbing results. While Hopper digs for the truth, Eleven unearths a surprising discovery."
+            }
+          ]
+        },
+        {
+          "seasonName": "Season 3",
+          "numberOfEpisodes": 4,
+          "description": "The group faces new threats as they encounter sinister forces in Hawkins.",
+          "rating": 8.7,
+          "thumnail": "https://wallpapercave.com/wp/wp8988425.jpg",
+          "episodes": [
+            {
+              "episodeNumber": 1,
+              "source":"https://i.imgur.com/JCavjGh.mp4",
+              "title": "Chapter One: Suzie, Do You Copy?",
+              "duration": "51 minutes",
+              "plot": "Summer brings new jobs and budding romance. But the mood shifts when Dustin's radio picks up a Russian broadcast, and Will senses something is wrong."
+            },
+            {
+              "episodeNumber": 2,
+              "source":"https://i.imgur.com/JCavjGh.mp4",
+              "title": "Chapter Two: The Mall Rats",
+              "duration": "50 minutes",
+              "plot": "Nancy and Jonathan follow a lead, Steve and Robin sign on to a secret mission, and Max and Eleven go shopping. A rattled Billy has troubling visions."
+            },
+            {
+              "episodeNumber": 3,
+              "source":"https://i.imgur.com/JCavjGh.mp4",
+              "title": "Chapter Three: The Case of the Missing Lifeguard",
+              "duration": "52 minutes",
+              "plot": "With El and Max looking for Billy, Will declares a day without girls. Steve and Dustin go on a stakeout, and Joyce and Hopper return to Hawkins Lab."
+            },
+            {
+              "episodeNumber": 4,
+              "source":"https://i.imgur.com/JCavjGh.mp4",
+              "title": "Chapter Four: The Sauna Test",
+              "duration": "49 minutes",
+              "plot": "A code red brings the gang back together to face a frighteningly familiar evil. Karen urges Nancy to keep digging, and Robin finds a useful map."
+            }
+          ]
+        },
+        {
+          "seasonName": "Season 4",
+          "numberOfEpisodes": 4,
+          "description": "The group faces new challenges and mysteries as they continue to uncover the secrets of the Upside Down.",
+          "rating": 8.9,
+          "thumnail": "https://wallpapercave.com/wp/wp8988425.jpg",
+          "episodes": [
+            {
+              "episodeNumber": 1,
+              "source":"https://i.imgur.com/JCavjGh.mp4",
+              "title": "Chapter One: The Hellfire Club",
+              "duration": "55 minutes",
+              "plot": "As Hopper and Eleven adapt to their new surroundings, Joyce and the rest of the gang unravel a cryptic mystery involving a strange new entity."
+            },
+            {
+              "episodeNumber": 2,
+              "source":"https://i.imgur.com/JCavjGh.mp4",
+              "title": "Chapter Two: Vecna's Curse",
+              "duration": "48 minutes",
+              "plot": "As strange occurrences plague Hawkins, the gang embarks on a perilous quest to uncover the truth behind the mysterious curse of Vecna."
+            },
+            {
+              "episodeNumber": 3,
+              "source":"https://i.imgur.com/JCavjGh.mp4",
+              "title": "Chapter Three: The Mind Flayer's Return",
+              "duration": "52 minutes",
+              "plot": "With danger lurking around every corner, the group must confront their darkest fears as they face off against the return of the malevolent Mind Flayer."
+            },
+            {
+              "episodeNumber": 4,
+              "source":"https://i.imgur.com/JCavjGh.mp4",
+              "title": "Chapter Four: The Final Battle",
+              "duration": "50 minutes",
+              "plot": "As the fate of Hawkins hangs in the balance, the group must band together for one last stand against the forces of darkness in a battle for survival."
+            }
+          ]
+        },
+        {
+          "seasonName": "Season 5",
+          "numberOfEpisodes": 4,
+          "description": "The group faces new challenges as they encounter mysterious forces beyond their understanding.",
+          "rating": 9.0,
+          "thumnail": "https://wallpapercave.com/wp/wp8988425.jpg",
+          "episodes": [
+            {
+              "episodeNumber": 1,
+              "source":"https://i.imgur.com/JCavjGh.mp4",
+              "title": "Chapter One: The Awakening",
+              "duration": "55 minutes",
+              "plot": "As strange occurrences plague Hawkins once again, the group must uncover the truth behind a series of bizarre events that hint at a larger conspiracy."
+            },
+            {
+              "episodeNumber": 2,
+              "source":"https://i.imgur.com/JCavjGh.mp4",
+              "title": "Chapter Two: The Shadow Realm",
+              "duration": "50 minutes",
+              "plot": "As the group delves deeper into the mysteries of the Upside Down, they encounter a shadowy realm filled with unknown dangers and dark secrets."
+            },
+            {
+              "episodeNumber": 3,
+              "source":"https://i.imgur.com/JCavjGh.mp4",
+              "title": "Chapter Three: The Lost Ones",
+              "duration": "52 minutes",
+              "plot": "With time running out, the group must race against the clock to rescue their friends and uncover the truth behind the sinister forces that threaten Hawkins."
+            },
+            {
+              "episodeNumber": 4,
+              "source":"https://i.imgur.com/JCavjGh.mp4",
+              "title": "Chapter Four: The Final Showdown",
+              "duration": "50 minutes",
+              "plot": "In a thrilling conclusion, the group must face off against the ultimate evil in a final showdown that will determine the fate of Hawkins and the world."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "The Witcher",
+      "genre": ["Fantasy", "Adventure", "Action"],
+      "releaseYear": 2019,
+      "thumnail": "https://www.opnlttr.com/sites/default/files/styles/large/public/the_witcher_3_wild_hunt_geralt_iphone4s.jpg?itok=VXYgQXHf",
+      "seasons": [
+        {
+          "seasonName": "Season 1",
+          "numberOfEpisodes": 3,
+          "description": "Geralt of Rivia, a solitary monster hunter, struggles to find his place in a world where people often prove more wicked than beasts.",
+          "rating": 8.2,
+          "thumnail": "https://www.opnlttr.com/sites/default/files/styles/large/public/the_witcher_3_wild_hunt_geralt_iphone4s.jpg?itok=VXYgQXHf",
+          "episodes": [
+            {
+              "episodeNumber": 1,
+              "source":"https://i.imgur.com/JCavjGh.mp4",
+              "title": "The End's Beginning",
+              "duration": "60 minutes",
+              "plot": "The Witcher, Geralt of Rivia, encounters a mysterious woman named Renfri, and the kingdom of Cintra faces an imminent threat."
+            },
+            {
+              "episodeNumber": 2,
+              "source":"https://i.imgur.com/JCavjGh.mp4",
+              "title": "Four Marks",
+              "duration": "55 minutes",
+              "plot": "Geralt takes on another Witcher's unfinished business in a kingdom stalked by a ferocious beast, and Yennefer contemplates her future."
+            },
+            {
+              "episodeNumber": 3,
+              "source":"https://i.imgur.com/JCavjGh.mp4",
+              "title": "Betrayer Moon",
+              "duration": "58 minutes",
+              "plot": "Against his better judgment, Geralt accompanies Jaskier to a royal ball. Ciri wanders into an enchanted forest. Yennefer tries to protect her charges."
+            }
+          ]
+        },
+        {
+          "seasonName": "Season 2",
+          "numberOfEpisodes": 3,
+          "description": "Geralt continues his journey, encountering new allies and adversaries as he battles to protect the people he cares about.",
+          "rating": 8.5,
+          "thumnail": "https://www.opnlttr.com/sites/default/files/styles/large/public/the_witcher_3_wild_hunt_geralt_iphone4s.jpg?itok=VXYgQXHf",
+          "episodes": [
+            {
+              "episodeNumber": 1,
+              "source":"https://i.imgur.com/JCavjGh.mp4",
+              "title": "A Grain of Truth",
+              "duration": "57 minutes",
+              "plot": "Geralt of Rivia encounters a cursed nobleman's beastly nature, and Yennefer hones her craft as a mage in training."
+            },
+            {
+              "episodeNumber": 2,
+              "source":"https://i.imgur.com/JCavjGh.mp4",
+              "title": "The Bounds of Reason",
+              "duration": "59 minutes",
+              "plot": "Geralt takes on another Witcher's unfinished business in a kingdom stalked by a ferocious beast, and Yennefer contemplates her future."
+            },
+            {
+              "episodeNumber": 3,
+              "source":"https://i.imgur.com/JCavjGh.mp4",
+              "title": "Rare Species",
+              "duration": "55 minutes",
+              "plot": "Against his better judgment, Geralt accompanies Jaskier to a royal ball. Ciri wanders into an enchanted forest. Yennefer tries to protect her charges."
+            }
+          ]
+        },
+        {
+          "seasonName": "Season 3",
+          "numberOfEpisodes": 3,
+          "description": "Geralt faces new challenges as he navigates the turbulent political landscape of the Continent.",
+          "rating": 8.6,
+          "thumnail": "https://www.opnlttr.com/sites/default/files/styles/large/public/the_witcher_3_wild_hunt_geralt_iphone4s.jpg?itok=VXYgQXHf",
+          "episodes": [
+            {
+              "episodeNumber": 1,
+              "source":"https://i.imgur.com/JCavjGh.mp4",
+              "title": "The Edge of the World",
+              "duration": "60 minutes",
+              "plot": "Geralt takes on a contract to hunt a mysterious creature, and Ciri faces a dangerous encounter in the forest."
+            },
+            {
+              "episodeNumber": 2,
+              "source":"https://i.imgur.com/JCavjGh.mp4",
+              "title": "Of Banquets, Bastards and Burials",
+              "duration": "55 minutes",
+              "plot": "Geralt is hired to investigate a murder at a royal feast, and Yennefer confronts the consequences of her past actions."
+            },
+            {
+              "episodeNumber": 3,
+              "source":"https://i.imgur.com/JCavjGh.mp4",
+              "title": "A Shard of Ice",
+              "duration": "58 minutes",
+              "plot": "Geralt reunites with an old flame, and Ciri discovers her own powers as she trains with the druids."
+            }
+          ]
+        },
+        {
+          "seasonName": "Season 4",
+          "numberOfEpisodes": 3,
+          "description": "Geralt's journey takes him to new lands as he faces off against powerful adversaries and uncovers ancient secrets.",
+          "rating": 8.7,
+          "thumnail": "https://www.opnlttr.com/sites/default/files/styles/large/public/the_witcher_3_wild_hunt_geralt_iphone4s.jpg?itok=VXYgQXHf",
+          "episodes": [
+            {
+              "episodeNumber": 1,
+              "source":"https://i.imgur.com/JCavjGh.mp4",
+              "title": "The Tower of the Swallow",
+              "duration": "57 minutes",
+              "plot": "Geralt investigates a series of strange occurrences at a remote tower, and Ciri struggles to control her growing powers."
+            },
+            {
+              "episodeNumber": 2,
+              "source":"https://i.imgur.com/JCavjGh.mp4",
+              "title": "The Lady of the Lake",
+              "duration": "59 minutes",
+              "plot": "Geralt encounters a mysterious woman in the lake, and Yennefer faces a powerful sorcerer who threatens her life."
+            },
+            {
+              "episodeNumber": 3,
+              "source":"https://i.imgur.com/JCavjGh.mp4",
+              "title": "Season of Storms",
+              "duration": "55 minutes",
+              "plot": "Geralt must navigate a deadly storm as he races to uncover the truth behind a series of gruesome murders."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Breaking Bad",
+      "genre": ["Crime", "Drama", "Thriller"],
+      "releaseYear": 2008,
+      "thumnail": "http://fr.web.img5.acsta.net/pictures/19/06/18/12/11/3956503.jpg",
+      "seasons": [
+        {
+          "seasonName": "Season 1",
+          "numberOfEpisodes": 4,
+          "description": "A high school chemistry teacher turned methamphetamine manufacturer partners with a former student to secure his family's future.",
+          "rating": 9.5,
+          "episodes": [
+            {
+              "episodeNumber": 1,
+              "source":"https://i.imgur.com/JCavjGh.mp4",
+              "title": "Pilot",
+              "duration": "58 minutes",
+              "plot": "After being diagnosed with terminal cancer, Walter White teams up with a former student to manufacture and sell methamphetamine."
+            },
+            {
+              "episodeNumber": 2,
+              "source":"https://i.imgur.com/JCavjGh.mp4",
+              "title": "Cat's in the Bag...",
+              "duration": "48 minutes",
+              "plot": "Walter and Jesse try to dispose of Emilio's body, and Skyler grows suspicious of Walter's behavior."
+            },
+            {
+              "episodeNumber": 3,
+              "source":"https://i.imgur.com/JCavjGh.mp4",
+              "title": "...And the Bag's in the River",
+              "duration": "47 minutes",
+              "plot": "Walter must make a difficult decision when Krazy-8 regains consciousness, and Jesse tries to sell the meth they cooked."
+            },
+            {
+              "episodeNumber": 4,
+              "source":"https://i.imgur.com/JCavjGh.mp4",
+              "title": "Cancer Man",
+              "duration": "49 minutes",
+              "plot": "Walter takes drastic measures to protect his secret, and Skyler confronts Walter about his lies."
+            }
+          ]
+        },
+        {
+          "seasonName": "Season 2",
+          "numberOfEpisodes": 3,
+          "description": "Walter's double life becomes increasingly complicated as he struggles to maintain control of his illegal operation.",
+          "rating": 9.3,
+          "episodes": [
+            {
+              "episodeNumber": 1,
+              "source":"https://i.imgur.com/JCavjGh.mp4",
+              "title": "Seven Thirty-Seven",
+              "duration": "47 minutes",
+              "plot": "Walter and Jesse face consequences for their actions, and Hank's investigation leads him to a shocking discovery."
+            },
+            {
+              "episodeNumber": 2,
+              "source":"https://i.imgur.com/JCavjGh.mp4",
+              "title": "Grilled",
+              "duration": "53 minutes",
+              "plot": "Walter and Jesse are taken hostage by a crazed Tuco, and Hank closes in on Jesse's location."
+            },
+            {
+              "episodeNumber": 3,
+              "source":"https://i.imgur.com/JCavjGh.mp4",
+              "title": "Bit by a Dead Bee",
+              "duration": "48 minutes",
+              "plot": "Walter tries to cover his tracks, and Skyler confronts Jesse about his role in Walter's disappearance."
+            }
+          ]
+        },
+        {
+          "seasonName": "Season 3",
+          "numberOfEpisodes": 4,
+          "description": "Walter's empire expands as he faces new threats and challenges in the world of methamphetamine production.",
+          "rating": 9.7,
+          "episodes": [
+            {
+              "episodeNumber": 1,
+              "source":"https://i.imgur.com/JCavjGh.mp4",
+              "title": "No Más",
+              "duration": "47 minutes",
+              "plot": "Walter and Jesse are forced to deal with the aftermath of their actions, and Hank faces consequences for his investigation."
+            },
+            {
+              "episodeNumber": 2,
+              "source":"https://i.imgur.com/JCavjGh.mp4",
+              "title": "Caballo Sin Nombre",
+              "duration": "50 minutes",
+              "plot": "Walter tries to repair his fractured relationship with Skyler, and Jesse navigates the dangers of the drug trade."
+            },
+            {
+              "episodeNumber": 3,
+              "source":"https://i.imgur.com/JCavjGh.mp4",
+              "title": "I.F.T.",
+              "duration": "49 minutes",
+              "plot": "Walter takes drastic measures to protect his secret, and Skyler confronts Walter about his lies."
+            },
+            {
+              "episodeNumber": 4,
+              "source":"https://i.imgur.com/JCavjGh.mp4",
+              "title": "Green Light",
+              "duration": "52 minutes",
+              "plot": "Walter's operation faces a new threat, and Hank uncovers evidence that leads him closer to the truth."
+            }
+          ]
+        },
+        {
+          "seasonName": "Season 4",
+          "numberOfEpisodes": 3,
+          "description": "Walter's grip on his empire weakens as his enemies close in, leading to a dramatic showdown.",
+          "rating": 9.9,
+          "episodes": [
+            {
+              "episodeNumber": 1,
+              "source":"https://i.imgur.com/JCavjGh.mp4",
+              "title": "Box Cutter",
+              "duration": "47 minutes",
+              "plot": "Walter and Jesse face the consequences of their actions, and Gus takes drastic measures to maintain control."
+            },
+            {
+              "episodeNumber": 2,
+              "source":"https://i.imgur.com/JCavjGh.mp4",
+              "title": "Thirty-Eight Snub",
+              "duration": "49 minutes",
+              "plot": "Walter struggles to adapt to life without Gus, and Jesse faces a difficult decision about his future."
+            },
+            {
+              "episodeNumber": 3,
+              "source":"https://i.imgur.com/JCavjGh.mp4",
+              "title": "Open House",
+              "duration": "48 minutes",
+              "plot": "Walter's relationship with Skyler deteriorates, and Jesse makes a shocking discovery about his past."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Game of Thrones",
+      "genre": ["Fantasy", "Drama", "Adventure"],
+      "releaseYear": 2011,
+      "thumnail": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6344/6344909_so.jpg",
+      "seasons": [
+        {
+          "seasonName": "Season 1",
+          "numberOfEpisodes": 4,
+          "description": "The noble families of Westeros vie for control of the Iron Throne as dark forces gather beyond the Wall.",
+          "rating": 9.0,
+          "episodes": [
+            {
+              "episodeNumber": 1,
+              "source":"https://i.imgur.com/JCavjGh.mp4",
+              "title": "Winter Is Coming",
+              "duration": "62 minutes",
+              "plot": "The Stark family receives an unexpected visitor, and the Night's Watch uncovers a mysterious threat in the North."
+            },
+            {
+              "episodeNumber": 2,
+              "source":"https://i.imgur.com/JCavjGh.mp4",
+              "title": "The Kingsroad",
+              "duration": "58 minutes",
+              "plot": "Jon Snow faces the realities of life at the Wall, and Daenerys begins her journey to reclaim the Iron Throne."
+            },
+            {
+              "episodeNumber": 3,
+              "source":"https://i.imgur.com/JCavjGh.mp4",
+              "title": "Lord Snow",
+              "duration": "57 minutes",
+              "plot": "Ned Stark navigates the treacherous politics of King's Landing, and Tyrion Lannister arrives at the Wall."
+            },
+            {
+              "episodeNumber": 4,
+              "source":"https://i.imgur.com/JCavjGh.mp4",
+              "title": "Cripples, Bastards, and Broken Things",
+              "duration": "56 minutes",
+              "plot": "Catelyn Stark takes matters into her own hands, and Daenerys faces challenges as she adjusts to life as a Khaleesi."
+            }
+          ]
+        },
+        {
+          "seasonName": "Season 2",
+          "numberOfEpisodes": 3,
+          "description": "War rages across Westeros as alliances are forged and broken in the battle for the Iron Throne.",
+          "rating": 9.2,
+          "episodes": [
+            {
+              "episodeNumber": 1,
+              "source":"https://i.imgur.com/JCavjGh.mp4",
+              "title": "The North Remembers",
+              "duration": "55 minutes",
+              "plot": "Tyrion arrives in King's Landing to serve as Hand of the King, and Stannis Baratheon makes a claim to the Iron Throne."
+            },
+            {
+              "episodeNumber": 2,
+              "source":"https://i.imgur.com/JCavjGh.mp4",
+              "title": "The Night Lands",
+              "duration": "54 minutes",
+              "plot": "Arya Stark faces danger on her journey north, and Daenerys seeks allies to help her reclaim the Iron Throne."
+            },
+            {
+              "episodeNumber": 3,
+              "source":"https://i.imgur.com/JCavjGh.mp4",
+              "title": "What Is Dead May Never Die",
+              "duration": "58 minutes",
+              "plot": "Theon Greyjoy returns to Pyke, and Jon Snow faces a crisis at the Fist of the First Men."
+            }
+          ]
+        },
+        {
+          "seasonName": "Season 3",
+          "numberOfEpisodes": 3,
+          "description": "The power struggles in Westeros intensify as new alliances are formed and old enemies resurface.",
+          "rating": 9.5,
+          "episodes": [
+            {
+              "episodeNumber": 1,
+              "source":"https://i.imgur.com/JCavjGh.mp4",
+              "title": "Valar Dohaeris",
+              "duration": "60 minutes",
+              "plot": "Jon Snow encounters the wildlings beyond the Wall, and Daenerys plans her conquest of the Slaver's Bay."
+            },
+            {
+              "episodeNumber": 2,
+              "source":"https://i.imgur.com/JCavjGh.mp4",
+              "title": "Dark Wings, Dark Words",
+              "duration": "57 minutes",
+              "plot": "Bran Stark has a series of prophetic dreams, and Jaime Lannister faces judgment for his crimes."
+            },
+            {
+              "episodeNumber": 3,
+              "source":"https://i.imgur.com/JCavjGh.mp4",
+              "title": "Walk of Punishment",
+              "duration": "58 minutes",
+              "plot": "Robb Stark faces challenges as King in the North, and Tyrion Lannister schemes to maintain his power in King's Landing."
+            }
+          ]
+        },
+        {
+          "seasonName": "Season 4",
+          "numberOfEpisodes": 4,
+          "description": "The fate of Westeros hangs in the balance as the War of the Five Kings reaches its climax.",
+          "rating": 9.7,
+          "episodes": [
+            {
+              "episodeNumber": 1,
+              "source":"https://i.imgur.com/JCavjGh.mp4",
+              "title": "Two Swords",
+              "duration": "59 minutes",
+              "plot": "Tywin Lannister reforges Ice into two new swords, and Daenerys begins her conquest of Meereen."
+            },
+            {
+              "episodeNumber": 2,
+              "source":"https://i.imgur.com/JCavjGh.mp4",
+              "title": "The Lion and the Rose",
+              "duration": "54 minutes",
+              "plot": "Joffrey Baratheon's wedding day ends in tragedy, and Arya Stark continues her journey with the Hound."
+            },
+            {
+              "episodeNumber": 3,
+              "source":"https://i.imgur.com/JCavjGh.mp4",
+              "title": "Breaker of Chains",
+              "duration": "57 minutes",
+              "plot": "Tyrion Lannister faces trial for Joffrey's murder, and Jon Snow plans an attack on Craster's Keep."
+            },
+            {
+              "episodeNumber": 4,
+              "source":"https://i.imgur.com/JCavjGh.mp4",
+              "title": "Oathkeeper",
+              "duration": "56 minutes",
+              "plot": "Daenerys makes a difficult decision in Meereen, and Jaime Lannister tries to rescue Tyrion from his cell."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "The Mandalorian",
+      "genre": ["Science Fiction", "Action", "Adventure"],
+      "releaseYear": 2019,
+      "thumnail": "https://3238leblogdemarvelll-1278.kxcdn.com/wp-content/uploads/2020/04/the-mandalorian-poster-olivera.jpg",
+      "seasons": [
+        {
+          "seasonName": "Season 1",
+          "numberOfEpisodes": 4,
+          "description": "A lone bounty hunter navigates the outer reaches of the galaxy, taking on dangerous missions and facing unexpected challenges.",
+          "rating": 8.7,
+          "episodes": [
+            {
+              "episodeNumber": 1,
+              "source":"https://i.imgur.com/JCavjGh.mp4",
+              "title": "Chapter 1: The Mandalorian",
+              "duration": "39 minutes",
+              "plot": "The Mandalorian accepts a risky job offer that leads him on a perilous journey across the desert planet of Tatooine."
+            },
+            {
+              "episodeNumber": 2,
+              "source":"https://i.imgur.com/JCavjGh.mp4",
+              "title": "Chapter 2: The Child",
+              "duration": "32 minutes",
+              "plot": "The Mandalorian encounters a mysterious creature known as the Child, and he must decide whether to fulfill his mission or protect the innocent."
+            },
+            {
+              "episodeNumber": 3,
+              "source":"https://i.imgur.com/JCavjGh.mp4",
+              "title": "Chapter 3: The Sin",
+              "duration": "38 minutes",
+              "plot": "The Mandalorian returns to collect his reward, but he faces a moral dilemma when he learns the fate of the Child."
+            },
+            {
+              "episodeNumber": 4,
+              "source":"https://i.imgur.com/JCavjGh.mp4",
+              "title": "Chapter 4: Sanctuary",
+              "duration": "41 minutes",
+              "plot": "The Mandalorian seeks refuge on a remote planet, but he is drawn into a conflict between the locals and a band of mercenaries."
+            }
+          ]
+        },
+        {
+          "seasonName": "Season 2",
+          "numberOfEpisodes": 3,
+          "description": "The Mandalorian continues his quest across the galaxy, encountering new allies and enemies as he searches for answers about the Child.",
+          "rating": 9.0,
+          "episodes": [
+            {
+              "episodeNumber": 1,
+              "source":"https://i.imgur.com/JCavjGh.mp4",
+              "title": "Chapter 9: The Marshal",
+              "duration": "52 minutes",
+              "plot": "The Mandalorian teams up with an unlikely ally to take down a dangerous foe, and he uncovers clues about the Child's origins."
+            },
+            {
+              "episodeNumber": 2,
+              "source":"https://i.imgur.com/JCavjGh.mp4",
+              "title": "Chapter 10: The Passenger",
+              "duration": "42 minutes",
+              "plot": "The Mandalorian helps a passenger transport her eggs across the galaxy, but they encounter trouble along the way."
+            },
+            {
+              "episodeNumber": 3,
+              "source":"https://i.imgur.com/JCavjGh.mp4",
+              "title": "Chapter 11: The Heiress",
+              "duration": "38 minutes",
+              "plot": "The Mandalorian teams up with a group of fellow Mandalorians to take down an Imperial stronghold and rescue the Child."
+            }
+          ]
+        },
+        {
+          "seasonName": "Season 3",
+          "numberOfEpisodes": 3,
+          "description": "The Mandalorian continues his quest across the galaxy, facing new challenges and forging unlikely alliances.",
+          "rating": 9.2,
+          "episodes": [
+            {
+              "episodeNumber": 1,
+              "source":"https://i.imgur.com/JCavjGh.mp4",
+              "title": "Chapter 12: The Siege",
+              "duration": "36 minutes",
+              "plot": "The Mandalorian helps an old ally take down an Imperial facility, but they uncover a sinister plot in the process."
+            },
+            {
+              "episodeNumber": 2,
+              "source":"https://i.imgur.com/JCavjGh.mp4",
+              "title": "Chapter 13: The Jedi",
+              "duration": "43 minutes",
+              "plot": "The Mandalorian seeks out a powerful Jedi to train the Child, but they must confront a deadly foe together."
+            },
+            {
+              "episodeNumber": 3,
+              "source":"https://i.imgur.com/JCavjGh.mp4",
+              "title": "Chapter 14: The Tragedy",
+              "duration": "35 minutes",
+              "plot": "The Mandalorian races to rescue the Child from the clutches of a dangerous enemy, but he faces unexpected obstacles along the way."
+            }
+          ]
+        },
+        {
+          "seasonName": "Season 4",
+          "numberOfEpisodes": 4,
+          "description": "The Mandalorian's journey takes him to new worlds and new dangers as he searches for answers about the Child's origins.",
+          "rating": 9.5,
+          "episodes": [
+            {
+              "episodeNumber": 1,
+              "source":"https://i.imgur.com/JCavjGh.mp4",
+              "title": "Chapter 15: The Believer",
+              "duration": "41 minutes",
+              "plot": "The Mandalorian teams up with an unlikely ally to infiltrate an Imperial base and retrieve vital information."
+            },
+            {
+              "episodeNumber": 2,
+              "source":"https://i.imgur.com/JCavjGh.mp4",
+              "title": "Chapter 16: The Rescue",
+              "duration": "48 minutes",
+              "plot": "The Mandalorian assembles a team of allies to launch a daring rescue mission and confront the forces of darkness."
+            },
+            {
+              "episodeNumber": 3,
+              "source":"https://i.imgur.com/JCavjGh.mp4",
+              "title": "Chapter 17: The Return",
+              "duration": "39 minutes",
+              "plot": "The Mandalorian faces a deadly showdown with an old adversary, and he discovers shocking truths about the Child's past."
+            },
+            {
+              "episodeNumber": 4,
+              "source":"https://i.imgur.com/JCavjGh.mp4",
+              "title": "Chapter 18: The Reckoning",
+              "duration": "42 minutes",
+              "plot": "The Mandalorian confronts his past and makes difficult choices as he prepares for the final battle against his enemies."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Dark",
+      "genre": ["Science Fiction", "Thriller", "Drama"],
+      "releaseYear": 2017,
+      "thumnail": "https://i1.wp.com/www.canalfreak.net/wp-content/uploads/2019/06/E0F5EDCB-704D-4790-B6E5-7E2058C4C4E2.jpeg?resize=1000%2C1328",
+      "seasons": [
+        {
+          "seasonName": "Season 1",
+          "numberOfEpisodes": 4,
+          "description": "A small German town is rocked by the disappearance of two young children, revealing a web of secrets and time travel.",
+          "rating": 8.7,
+          "episodes": [
+            {
+              "episodeNumber": 1,
+              "source":"https://i.imgur.com/JCavjGh.mp4",
+              "title": "Secrets",
+              "duration": "53 minutes",
+              "plot": "The disappearance of a young boy exposes the dark secrets of Winden, including hidden relationships and mysterious time travel."
+            },
+            {
+              "episodeNumber": 2,
+              "source":"https://i.imgur.com/JCavjGh.mp4",
+              "title": "Lies",
+              "duration": "47 minutes",
+              "plot": "As the search for the missing boy continues, the secrets of Winden's past are revealed, and the true nature of time travel becomes clear."
+            },
+            {
+              "episodeNumber": 3,
+              "source":"https://i.imgur.com/JCavjGh.mp4",
+              "title": "Past and Present",
+              "duration": "55 minutes",
+              "plot": "The connections between the past, present, and future become more apparent as the residents of Winden grapple with the consequences of their actions."
+            },
+            {
+              "episodeNumber": 4,
+              "source":"https://i.imgur.com/JCavjGh.mp4",
+              "title": "Double Lives",
+              "duration": "52 minutes",
+              "plot": "The truth about the time travel experiments is revealed, and the residents of Winden must confront their own double lives."
+            }
+          ]
+        },
+        {
+          "seasonName": "Season 2",
+          "numberOfEpisodes": 3,
+          "description": "The mystery deepens as the residents of Winden uncover more secrets about their past and future.",
+          "rating": 9.1,
+          "episodes": [
+            {
+              "episodeNumber": 1,
+              "source":"https://i.imgur.com/JCavjGh.mp4",
+              "title": "Beginnings and Endings",
+              "duration": "55 minutes",
+              "plot": "The apocalypse looms closer as Jonas travels to the future, and the residents of Winden struggle to prevent the end of the world."
+            },
+            {
+              "episodeNumber": 2,
+              "source":"https://i.imgur.com/JCavjGh.mp4",
+              "title": "Dark Matter",
+              "duration": "50 minutes",
+              "plot": "The secrets of Winden's past are uncovered, revealing the true origins of the time travel experiments and the mysterious stranger."
+            },
+            {
+              "episodeNumber": 3,
+              "source":"https://i.imgur.com/JCavjGh.mp4",
+              "title": "Ghosts",
+              "duration": "48 minutes",
+              "plot": "As the apocalypse draws near, Jonas and his friends race against time to uncover the truth about their families and prevent a tragedy."
+            }
+          ]
+        },
+        {
+          "seasonName": "Season 3",
+          "numberOfEpisodes": 3,
+          "description": "The final chapter of the time-bending saga unfolds as the truth about Winden and its inhabitants is finally revealed.",
+          "rating": 9.3,
+          "episodes": [
+            {
+              "episodeNumber": 1,
+              "source":"https://i.imgur.com/JCavjGh.mp4",
+              "title": "Deja-vu",
+              "duration": "51 minutes",
+              "plot": "As the apocalypse looms, Jonas and Martha travel to the origin world and confront the true source of the time loops."
+            },
+            {
+              "episodeNumber": 2,
+              "source":"https://i.imgur.com/JCavjGh.mp4",
+              "title": "The Survivors",
+              "duration": "46 minutes",
+              "plot": "Jonas and Martha race against time to stop the apocalypse and save their loved ones, but they must make a sacrifice to break the cycle."
+            },
+            {
+              "episodeNumber": 3,
+              "source":"https://i.imgur.com/JCavjGh.mp4",
+              "title": "Adam and Eva",
+              "duration": "49 minutes",
+              "plot": "The true mastermind behind the time loops is revealed, and Jonas and Martha must confront their destinies to save the world."
+            }
+          ]
+        },
+        {
+          "seasonName": "Season 4",
+          "numberOfEpisodes": 4,
+          "description": "A new cycle begins as the residents of Winden face a new set of challenges and mysteries.",
+          "rating": 9.5,
+          "episodes": [
+            {
+              "episodeNumber": 1,
+              "source":"https://i.imgur.com/JCavjGh.mp4",
+              "title": "The Beginning",
+              "duration": "50 minutes",
+              "plot": "A mysterious stranger arrives in Winden, setting off a chain of events that will change the town forever."
+            },
+            {
+              "episodeNumber": 2,
+              "source":"https://i.imgur.com/JCavjGh.mp4",
+              "title": "Time Loop",
+              "duration": "48 minutes",
+              "plot": "The residents of Winden discover that they are trapped in a time loop, and they must find a way to break free before it's too late."
+            },
+            {
+              "episodeNumber": 3,
+              "source":"https://i.imgur.com/JCavjGh.mp4",
+              "title": "Parallel Worlds",
+              "duration": "52 minutes",
+              "plot": "Jonas and Martha travel to parallel worlds in search of answers, but they uncover dark secrets that threaten to tear them apart."
+            },
+            {
+              "episodeNumber": 4,
+              "source":"https://i.imgur.com/JCavjGh.mp4",
+              "title": "Endless Cycle",
+              "duration": "47 minutes",
+              "plot": "The truth about the time loops is finally revealed, and the residents of Winden must confront their past and future to break the cycle once and for all."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Sex Education",
+      "genre": ["Comedy", "Drama"],
+      "releaseYear": 2019,
+      "thumnail": "https://cliq.ng/wp-content/uploads/2021/09/sex-education1794406657447435522.jpg",
+      "seasons": [
+        {
+          "seasonName": "Season 1",
+          "numberOfEpisodes": 4,
+          "description": "A socially awkward teenager teams up with a high school classmate to start a sex therapy clinic for their fellow students.",
+          "rating": 8.5,
+          "episodes": [
+            {
+              "episodeNumber": 1,
+              "source":"https://i.imgur.com/JCavjGh.mp4",
+              "title": "Episode 1",
+              "duration": "50 minutes",
+              "plot": "Otis, a socially awkward teenager, teams up with Maeve, a rebellious classmate, to start a sex therapy clinic at their high school."
+            },
+            {
+              "episodeNumber": 2,
+              "source":"https://i.imgur.com/JCavjGh.mp4",
+              "title": "Episode 2",
+              "duration": "48 minutes",
+              "plot": "Otis struggles to balance his new role as a sex therapist with his own personal issues, while Maeve deals with family troubles."
+            },
+            {
+              "episodeNumber": 3,
+              "source":"https://i.imgur.com/JCavjGh.mp4",
+              "title": "Episode 3",
+              "duration": "52 minutes",
+              "plot": "Otis and Maeve navigate the complexities of teenage sexuality as they try to help their classmates with their problems."
+            },
+            {
+              "episodeNumber": 4,
+              "source":"https://i.imgur.com/JCavjGh.mp4",
+              "title": "Episode 4",
+              "duration": "47 minutes",
+              "plot": "Otis faces a moral dilemma when he discovers a dark secret about one of his classmates, while Maeve struggles with her feelings for him."
+            }
+          ]
+        },
+        {
+          "seasonName": "Season 2",
+          "numberOfEpisodes": 3,
+          "description": "Otis and his friends navigate the ups and downs of teenage life as they deal with love, friendship, and growing up.",
+          "rating": 8.8,
+          "episodes": [
+            {
+              "episodeNumber": 1,
+              "source":"https://i.imgur.com/JCavjGh.mp4",
+              "title": "Episode 5",
+              "duration": "49 minutes",
+              "plot": "Otis tries to move on from Maeve, but he struggles to connect with a new love interest, while Eric deals with the aftermath of a breakup."
+            },
+            {
+              "episodeNumber": 2,
+              "source":"https://i.imgur.com/JCavjGh.mp4",
+              "title": "Episode 6",
+              "duration": "51 minutes",
+              "plot": "Otis and Maeve work together on a new therapy clinic project, while Eric explores his sexuality with a new friend."
+            },
+            {
+              "episodeNumber": 3,
+              "source":"https://i.imgur.com/JCavjGh.mp4",
+              "title": "Episode 7",
+              "duration": "53 minutes",
+              "plot": "Otis and Maeve confront their feelings for each other as they try to save their friendship, while Eric faces prejudice at school."
+            }
+          ]
+        },
+        {
+          "seasonName": "Season 3",
+          "numberOfEpisodes": 4,
+          "description": "Otis and his friends face new challenges as they navigate the complexities of relationships, identity, and growing up.",
+          "rating": 9.0,
+          "episodes": [
+            {
+              "episodeNumber": 1,
+              "source":"https://i.imgur.com/JCavjGh.mp4",
+              "title": "Episode 8",
+              "duration": "48 minutes",
+              "plot": "Otis and his friends return to school after summer break, but they face unexpected changes and challenges in their personal lives."
+            },
+            {
+              "episodeNumber": 2,
+              "source":"https://i.imgur.com/JCavjGh.mp4",
+              "title": "Episode 9",
+              "duration": "45 minutes",
+              "plot": "Otis struggles to maintain his relationship with Maeve as he deals with jealousy and insecurity, while Eric explores his newfound confidence."
+            },
+            {
+              "episodeNumber": 3,
+              "source":"https://i.imgur.com/JCavjGh.mp4",
+              "title": "Episode 10",
+              "duration": "50 minutes",
+              "plot": "Otis and Maeve confront their feelings for each other, while Eric and Adam navigate their complicated relationship."
+            },
+            {
+              "episodeNumber": 4,
+              "source":"https://i.imgur.com/JCavjGh.mp4",
+              "title": "Episode 11",
+              "duration": "52 minutes",
+              "plot": "Otis and his friends come together to support each other through difficult times, while they also face external pressures and conflicts."
+            }
+          ]
+        },
+        {
+          "seasonName": "Season 4",
+          "numberOfEpisodes": 3,
+          "description": "As the students of Moordale Secondary School enter their final year, they must confront their past, present, and future.",
+          "rating": 9.2,
+          "episodes": [
+            {
+              "episodeNumber": 1,
+              "source":"https://i.imgur.com/JCavjGh.mp4",
+              "title": "Episode 12",
+              "duration": "47 minutes",
+              "plot": "Otis and Maeve struggle to define their relationship as they prepare for life after high school, while Eric and Adam face challenges in their own lives."
+            },
+            {
+              "episodeNumber": 2,
+              "source":"https://i.imgur.com/JCavjGh.mp4",
+              "title": "Episode 13",
+              "duration": "49 minutes",
+              "plot": "Otis and his friends come together to plan a prom night to remember, but they must confront their fears and insecurities along the way."
+            },
+            {
+              "episodeNumber": 3,
+              "source":"https://i.imgur.com/JCavjGh.mp4",
+              "title": "Episode 14",
+              "duration": "53 minutes",
+              "plot": "As graduation day approaches, Otis and his friends reflect on their time at Moordale and prepare for the next chapter of their lives."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Money Heist",
+      "genre": ["Crime", "Drama", "Thriller"],
+      "releaseYear": 2017,
+      "thumnail": "https://tse2.mm.bing.net/th?id=OIP.JVTNK_2VJimL5qU61mUy6QHaK-&pid=Api&P=0&h=180",
+      "seasons": [
+        {
+          "seasonName": "Season 1",
+          "numberOfEpisodes": 4,
+          "description": "A criminal mastermind recruits a group of talented individuals to carry out an ambitious heist on the Royal Mint of Spain.",
+          "rating": 8.2,
+          "episodes": [
+            {
+              "episodeNumber": 1,
+              "source":"https://i.imgur.com/JCavjGh.mp4",
+              "title": "Episode 1",
+              "duration": "47 minutes",
+              "plot": "The Professor recruits a team of robbers to carry out his plan, and they begin their preparation for the heist."
+            },
+            {
+              "episodeNumber": 2,
+              "source":"https://i.imgur.com/JCavjGh.mp4",
+              "title": "Episode 2",
+              "duration": "41 minutes",
+              "plot": "The robbers face unexpected challenges as they attempt to gain control of the hostages inside the Mint."
+            },
+            {
+              "episodeNumber": 3,
+              "source":"https://i.imgur.com/JCavjGh.mp4",
+              "title": "Episode 3",
+              "duration": "55 minutes",
+              "plot": "Tensions rise among the hostages as the robbers execute their plan, and the police launch their investigation."
+            },
+            {
+              "episodeNumber": 4,
+              "source":"https://i.imgur.com/JCavjGh.mp4",
+              "title": "Episode 4",
+              "duration": "50 minutes",
+              "plot": "The Professor devises a risky strategy to keep the police at bay, and the robbers face a crucial decision."
+            }
+          ]
+        },
+        {
+          "seasonName": "Season 2",
+          "numberOfEpisodes": 3,
+          "description": "The heist continues as the robbers face new challenges and unexpected betrayals.",
+          "rating": 8.6,
+          "episodes": [
+            {
+              "episodeNumber": 1,
+              "source":"https://i.imgur.com/JCavjGh.mp4",
+              "title": "Episode 5",
+              "duration": "45 minutes",
+              "plot": "The Professor's plan begins to unravel as the police close in, and tensions flare among the robbers."
+            },
+            {
+              "episodeNumber": 2,
+              "source":"https://i.imgur.com/JCavjGh.mp4",
+              "title": "Episode 6",
+              "duration": "49 minutes",
+              "plot": "The robbers must navigate treacherous waters as they attempt to secure their freedom, and relationships are tested."
+            },
+            {
+              "episodeNumber": 3,
+              "source":"https://i.imgur.com/JCavjGh.mp4",
+              "title": "Episode 7",
+              "duration": "52 minutes",
+              "plot": "The Professor's past comes back to haunt him, and the robbers face a new threat from within."
+            }
+          ]
+        },
+        {
+          "seasonName": "Season 3",
+          "numberOfEpisodes": 4,
+          "description": "The heist takes an unexpected turn as the robbers face new challenges and betrayals.",
+          "rating": 8.9,
+          "episodes": [
+            {
+              "episodeNumber": 1,
+              "source":"https://i.imgur.com/JCavjGh.mp4",
+              "title": "Episode 8",
+              "duration": "47 minutes",
+              "plot": "The robbers must regroup and reassess their strategy as the police close in on their location."
+            },
+            {
+              "episodeNumber": 2,
+              "source":"https://i.imgur.com/JCavjGh.mp4",
+              "title": "Episode 9",
+              "duration": "44 minutes",
+              "plot": "Tensions rise among the hostages as the robbers face internal conflicts and external threats."
+            },
+            {
+              "episodeNumber": 3,
+              "source":"https://i.imgur.com/JCavjGh.mp4",
+              "title": "Episode 10",
+              "duration": "50 minutes",
+              "plot": "The Professor devises a daring plan to outsmart the police and secure the robbers' escape."
+            },
+            {
+              "episodeNumber": 4,
+              "source":"https://i.imgur.com/JCavjGh.mp4",
+              "title": "Episode 11",
+              "duration": "55 minutes",
+              "plot": "The robbers must make difficult choices as they confront their past and prepare for the future."
+            }
+          ]
+        },
+        {
+          "seasonName": "Season 4",
+          "numberOfEpisodes": 3,
+          "description": "The final showdown between the robbers and the police brings the heist to a dramatic conclusion.",
+          "rating": 9.1,
+          "episodes": [
+            {
+              "episodeNumber": 1,
+              "source":"https://i.imgur.com/JCavjGh.mp4",
+              "title": "Episode 12",
+              "duration": "48 minutes",
+              "plot": "The robbers face their greatest challenge yet as the police close in on their hideout."
+            },
+            {
+              "episodeNumber": 2,
+              "source":"https://i.imgur.com/JCavjGh.mp4",
+              "title": "Episode 13",
+              "duration": "51 minutes",
+              "plot": "The Professor must use all his cunning to outwit the police and ensure the success of the heist."
+            },
+            {
+              "episodeNumber": 3,
+              "source":"https://i.imgur.com/JCavjGh.mp4",
+              "title": "Episode 14",
+              "duration": "53 minutes",
+              "plot": "The robbers' fate hangs in the balance as they make a desperate bid for freedom."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "title": "House of Cards",
+      "genre": ["Political", "Drama", "Thriller"],
+      "releaseYear": 2013,
+      "thumnail": "http://4.bp.blogspot.com/-lAmL_eQ43KU/UNSajMSBIOI/AAAAAAAAM0o/IcfD1mYpaHc/s1600/HOC_S1_KA_Alternate.jpg",
+      "seasons": [
+        {
+          "seasonName": "Season 1",
+          "numberOfEpisodes": 4,
+          "description": "A ruthless politician manipulates his way to the top of Washington D.C., leaving a trail of corruption and betrayal in his wake.",
+          "rating": 9.0,
+          "episodes": [
+            {
+              "episodeNumber": 1,
+              "source":"https://i.imgur.com/JCavjGh.mp4",
+              "title": "Chapter 1",
+              "duration": "56 minutes",
+              "plot": "Congressman Frank Underwood begins his ruthless ascent to power, manipulating friends and foes alike."
+            },
+            {
+              "episodeNumber": 2,
+              "source":"https://i.imgur.com/JCavjGh.mp4",
+              "title": "Chapter 2",
+              "duration": "49 minutes",
+              "plot": "Frank Underwood orchestrates a scandal to eliminate a potential rival, and he sets his sights on higher office."
+            },
+            {
+              "episodeNumber": 3,
+              "source":"https://i.imgur.com/JCavjGh.mp4",
+              "title": "Chapter 3",
+              "duration": "51 minutes",
+              "plot": "Frank Underwood's plans are threatened by a journalist's investigation, and he takes drastic measures to protect his secrets."
+            },
+            {
+              "episodeNumber": 4,
+              "source":"https://i.imgur.com/JCavjGh.mp4",
+              "title": "Chapter 4",
+              "duration": "47 minutes",
+              "plot": "Frank Underwood faces a crisis as his past catches up with him, and he must make difficult choices to preserve his power."
+            }
+          ]
+        },
+        {
+          "seasonName": "Season 2",
+          "numberOfEpisodes": 3,
+          "description": "Frank Underwood's grip on power is challenged as new threats emerge and old enemies resurface.",
+          "rating": 9.2,
+          "episodes": [
+            {
+              "episodeNumber": 1,
+              "source":"https://i.imgur.com/JCavjGh.mp4",
+              "title": "Chapter 5",
+              "duration": "52 minutes",
+              "plot": "Frank Underwood navigates the fallout from his actions, and he faces new challenges as Vice President of the United States."
+            },
+            {
+              "episodeNumber": 2,
+              "source":"https://i.imgur.com/JCavjGh.mp4",
+              "title": "Chapter 6",
+              "duration": "49 minutes",
+              "plot": "Frank Underwood's plans are threatened by a betrayal from within, and he must take drastic action to regain control."
+            },
+            {
+              "episodeNumber": 3,
+              "source":"https://i.imgur.com/JCavjGh.mp4",
+              "title": "Chapter 7",
+              "duration": "47 minutes",
+              "plot": "Frank Underwood's past comes back to haunt him, and he faces a crisis that could destroy everything he's worked for."
+            }
+          ]
+        },
+        {
+          "seasonName": "Season 3",
+          "numberOfEpisodes": 4,
+          "description": "Frank Underwood faces new challenges as he fights to maintain his grip on power and protect his legacy.",
+          "rating": 9.1,
+          "episodes": [
+            {
+              "episodeNumber": 1,
+              "source":"https://i.imgur.com/JCavjGh.mp4",
+              "title": "Chapter 27",
+              "duration": "55 minutes",
+              "plot": "Frank Underwood faces threats from all sides as he fights to secure his legacy and maintain control of the White House."
+            },
+            {
+              "episodeNumber": 2,
+              "source":"https://i.imgur.com/JCavjGh.mp4",
+              "title": "Chapter 28",
+              "duration": "49 minutes",
+              "plot": "Frank Underwood's past comes back to haunt him, and he must navigate a treacherous political landscape to protect his secrets."
+            },
+            {
+              "episodeNumber": 3,
+              "source":"https://i.imgur.com/JCavjGh.mp4",
+              "title": "Chapter 29",
+              "duration": "47 minutes",
+              "plot": "Frank Underwood faces challenges from within his own party, and he must make difficult choices to maintain his grip on power."
+            },
+            {
+              "episodeNumber": 4,
+              "source":"https://i.imgur.com/JCavjGh.mp4",
+              "title": "Chapter 30",
+              "duration": "52 minutes",
+              "plot": "Frank Underwood's presidency is threatened by a scandal, and he must do whatever it takes to protect himself and his legacy."
+            }
+          ]
+        },
+        {
+          "seasonName": "Season 4",
+          "numberOfEpisodes": 3,
+          "description": "Frank Underwood's presidency is in jeopardy as new threats emerge and old enemies resurface.",
+          "rating": 9.3,
+          "episodes": [
+            {
+              "episodeNumber": 1,
+              "source":"https://i.imgur.com/JCavjGh.mp4",
+              "title": "Chapter 40",
+              "duration": "54 minutes",
+              "plot": "Frank Underwood faces challenges from all sides as he fights to secure his legacy and maintain control of the White House."
+            },
+            {
+              "episodeNumber": 2,
+              "source":"https://i.imgur.com/JCavjGh.mp4",
+              "title": "Chapter 41",
+              "duration": "51 minutes",
+              "plot": "Frank Underwood's past comes back to haunt him, and he must navigate a treacherous political landscape to protect his secrets."
+            },
+            {
+              "episodeNumber": 3,
+              "source":"https://i.imgur.com/JCavjGh.mp4",
+              "title": "Chapter 42",
+              "duration": "47 minutes",
+              "plot": "Frank Underwood faces challenges from within his own party, and he must make difficult choices to maintain his grip on power."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "title": "The OA",
+      "genre": ["Science Fiction", "Mystery", "Drama"],
+      "releaseYear": 2016,
+      "thumnail": "https://posterspy.com/wp-content/uploads/2019/09/The-OA-Poster-w-logo.jpg",
+      "seasons": [
+        {
+          "seasonName": "Season 1",
+          "numberOfEpisodes": 4,
+          "description": "A young woman returns home after being missing for seven years, but her story of captivity and near-death experiences is met with skepticism.",
+          "rating": 8.4,
+          "episodes": [
+            {
+              "episodeNumber": 1,
+              "source":"https://i.imgur.com/JCavjGh.mp4",
+              "title": "Homecoming",
+              "duration": "71 minutes",
+              "plot": "Prairie Johnson returns to her family in a miraculous reunion, but she refuses to reveal where she's been or what happened to her."
+            },
+            {
+              "episodeNumber": 2,
+              "source":"https://i.imgur.com/JCavjGh.mp4",
+              "title": "New Colossus",
+              "duration": "60 minutes",
+              "plot": "Prairie recruits a group of misfits to help her uncover the truth about her captivity, and they embark on a dangerous journey together."
+            },
+            {
+              "episodeNumber": 3,
+              "source":"https://i.imgur.com/JCavjGh.mp4",
+              "title": "Champion",
+              "duration": "58 minutes",
+              "plot": "The group faces unexpected challenges as they search for answers, and Prairie's past comes back to haunt her."
+            },
+            {
+              "episodeNumber": 4,
+              "source":"https://i.imgur.com/JCavjGh.mp4",
+              "title": "Away",
+              "duration": "58 minutes",
+              "plot": "Prairie's story takes a dark turn as she confronts the truth about her captors and the nature of her own existence."
+            }
+          ]
+        },
+        {
+          "seasonName": "Season 2",
+          "numberOfEpisodes": 3,
+          "description": "Prairie's quest continues as she delves deeper into the mysteries of the multiverse and uncovers shocking truths about her own identity.",
+          "rating": 8.7,
+          "episodes": [
+            {
+              "episodeNumber": 1,
+              "source":"https://i.imgur.com/JCavjGh.mp4",
+              "title": "Angel of Death",
+              "duration": "60 minutes",
+              "plot": "Prairie discovers new dimensions and alternate realities, but she struggles to maintain her grip on reality."
+            },
+            {
+              "episodeNumber": 2,
+              "source":"https://i.imgur.com/JCavjGh.mp4",
+              "title": "Treasure Island",
+              "duration": "55 minutes",
+              "plot": "The group embarks on a perilous journey to find the mysterious treasure, but they encounter unexpected dangers along the way."
+            },
+            {
+              "episodeNumber": 3,
+              "source":"https://i.imgur.com/JCavjGh.mp4",
+              "title": "Magic Mirror",
+              "duration": "58 minutes",
+              "plot": "Prairie confronts her own demons as she battles to save her friends and uncover the truth about the multiverse."
+            }
+          ]
+        },
+        {
+          "seasonName": "Season 3",
+          "numberOfEpisodes": 4,
+          "description": "Prairie's journey takes unexpected turns as she explores new dimensions and battles powerful adversaries.",
+          "rating": 8.9,
+          "episodes": [
+            {
+              "episodeNumber": 1,
+              "source":"https://i.imgur.com/JCavjGh.mp4",
+              "title": "The Angel Hunter",
+              "duration": "63 minutes",
+              "plot": "Prairie faces off against a dangerous foe who seeks to harness the power of the multiverse for his own nefarious purposes."
+            },
+            {
+              "episodeNumber": 2,
+              "source":"https://i.imgur.com/JCavjGh.mp4",
+              "title": "The Dreamer",
+              "duration": "59 minutes",
+              "plot": "Prairie delves deeper into the mysteries of the multiverse and uncovers shocking truths about her own destiny."
+            },
+            {
+              "episodeNumber": 3,
+              "source":"https://i.imgur.com/JCavjGh.mp4",
+              "title": "The Messenger",
+              "duration": "57 minutes",
+              "plot": "Prairie's allies rally to her side as she prepares for a final showdown with her greatest enemy, but betrayal lurks around every corner."
+            },
+            {
+              "episodeNumber": 4,
+              "source":"https://i.imgur.com/JCavjGh.mp4",
+              "title": "The Oracle",
+              "duration": "61 minutes",
+              "plot": "Prairie confronts her own mortality as she confronts the truth about the multiverse and her place within it."
+            }
+          ]
+        },
+        {
+          "seasonName": "Season 4",
+          "numberOfEpisodes": 3,
+          "description": "Prairie's journey comes to a dramatic conclusion as she faces her ultimate destiny and discovers the true nature of the multiverse.",
+          "rating": 9.2,
+          "episodes": [
+            {
+              "episodeNumber": 1,
+              "source":"https://i.imgur.com/JCavjGh.mp4",
+              "title": "The Guardian",
+              "duration": "60 minutes",
+              "plot": "Prairie's allies must race against time to stop a powerful enemy from destroying the multiverse and all of reality."
+            },
+            {
+              "episodeNumber": 2,
+              "source":"https://i.imgur.com/JCavjGh.mp4",
+              "title": "The Savior",
+              "duration": "58 minutes",
+              "plot": "Prairie confronts her own doubts and fears as she prepares for a final showdown with her greatest enemy."
+            },
+            {
+              "episodeNumber": 3,
+              "source":"https://i.imgur.com/JCavjGh.mp4",
+              "title": "The Ascension",
+              "duration": "62 minutes",
+              "plot": "Prairie makes the ultimate sacrifice to save the multiverse and ensure a better future for all of reality."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

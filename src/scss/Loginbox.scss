@@ -1,0 +1,106 @@
+.container {
+  position: absolute;
+  margin-top: 5rem;
+  display: flex;
+  width: 50%;
+  border-radius: 10px;
+  background-color: #16181f;
+  .box1 {
+    width: 380px;
+    height: 488px;
+
+    & img {
+      width: 100%;
+      height: 100%;
+      filter: contrast(80%) brightness(80%);
+    }
+  }
+  .box2 {
+    width: 484px;
+    height: 488px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+    color: #e1e6f0;
+
+    .close {
+      position: absolute;
+      right: 20px;
+      top: 20px;
+      .cls-btn {
+        width: 35px;
+        height: 35px;
+        color: #707a94;
+        cursor: pointer;
+      }
+    }
+    .content {
+      margin-top: 50px;
+      height: 376px;
+      width: 372px;
+      .otp {
+        width: 100%;
+        height: 50%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        & button {
+          width: 250px;
+          height: 50px;
+          padding: 10px;
+          font-weight: 600;
+          font-size: 18px;
+          border-radius: 5px;
+          border: 1px solid transparent;
+          background-color: #0636ac;
+          color: #eae8f9;
+          cursor: pointer;
+          &:hover {
+            background-color: #0739b7;
+          }
+        }
+      }
+    }
+
+    .input-box {
+      & input {
+        background-color: transparent;
+        color: #707a94;
+        max-height: 50px;
+        padding: 15px;
+        outline: none;
+        border: 1px solid #707a94;
+        border-radius: 5px;
+        font-size: 17px;
+      }
+
+      & input[readonly] {
+        /* Your styles for read-only inputs */
+        width: 60px;
+      }
+      input[type="number"] {
+        margin-left: 10px;
+      }
+      input[type="number"]::-webkit-inner-spin-button,
+      input[type="number"]::-webkit-outer-spin-button {
+        -webkit-appearance: none;
+      }
+      & p {
+        font-size: 11px;
+        color: #707a94;
+        & span {
+          color: #8894b1;
+        }
+      }
+    }
+    & p {
+      font-size: 18px;
+      .signup {
+        color: #3586f0;
+        font-weight: 600;
+      }
+    }
+  }
+}
