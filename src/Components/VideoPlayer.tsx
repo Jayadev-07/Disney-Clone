@@ -13,7 +13,7 @@ const VideoPlayer = () => {
   }, []);
   return (
     <>
-      <Back/>
+      <Back />
       <div className="video-player">
         <video controls>
           <source src={`${VideoData.source}`} />

@@ -3,9 +3,10 @@ import useMoviesApi from "../CustomHooks/useMoviesApi";
 import "../scss/pagesStyle/HomePage.scss";
 import VideoStore from "../Zustand/VideoStore";
 import { useNavigate } from "react-router-dom";
-import files from "../JsonFile/MoviesList.json"
+import files from "../JsonFile/MoviesList.json";
 import { useEffect, useState } from "react";
 const HomePage = () => {
+  const [detail, setDetail] = useState<number | null>(null);
   const { setVideoData } = VideoStore();
   const navigator = useNavigate();
   const { data } = useMoviesApi();
@@ -18,10 +19,17 @@ const HomePage = () => {
 
   useEffect(() => {
     const Interval = setInterval(() => {
-      setCount(prev => (prev === 5 ? 0 : prev + 1));
+      setCount((prev) => (prev === 5 ? 0 : prev + 1));
     }, 4000);
     return () => clearInterval(Interval);
   }, []);
+
+  const handleScroll = (a: number, index: number) => {
+    const container = document.getElementById(
+      `movie-list-${index}`,
+    ) as HTMLDivElement;
+    container.scrollLeft += a;
+  };
   return (
     <>
       <div className="section">
@@ -36,13 +44,29 @@ const HomePage = () => {
         {genres.map((list, index) => (
           <div key={list} className="topics">
             <h2>{list}</h2>
-            <div className="movie-list" key={index}>
+            <div
+              className="movie-list"
+              id={`movie-list-${index}`}
+              key={index}
+              onMouseEnter={() => setDetail(index)}
+              onMouseLeave={() => setDetail(null)}
+            >
+              {detail === index && (
+                <div className="left-scroll">
+                  <span onClick={() => handleScroll(-200, index)}>{`<`}</span>
+                </div>
+              )}
               {data.map((item, index) =>
                 item.genres.includes(list) ? (
                   <div className="img-div" onClick={() => handleClick(index)}>
                     <img src={item.thumbnail} />
                   </div>
-                ) : null
+                ) : null,
+              )}
+              {detail === index && (
+                <div className="right-scroll">
+                  <span onClick={() => handleScroll(200, index)}>{`>`}</span>
+                </div>
               )}
             </div>
           </div>

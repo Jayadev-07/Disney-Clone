@@ -1,19 +1,20 @@
-.back{
-    margin-bottom: 10px;
-   & button{
-    margin-top: 1rem;
-    margin-left: 2rem;
-        padding: 8px;
-        border: 0;
-        outline: none;
-        font-size: 16px;
-        font-weight: 500;
-        border-radius: 5px;
-        color: white;
-        background-color:#2e3d62 ;
-        cursor: pointer;
-        &:hover{
-            background-color:#1c2948 ;
-        }
+.back {
+  margin-bottom: 10px;
+  & button {
+    margin-top: 10px;
+    margin-left: 10px;
+    padding: 2px;
+    border: 0;
+    outline: none;
+    font-size: 25px;
+    font-weight: 500;
+    border-radius: 5px;
+    color: white;
+    display: flex;
+    background-color: #2e3d62;
+    cursor: pointer;
+    &:hover {
+      background-color: #1c2948;
     }
+  }
 }

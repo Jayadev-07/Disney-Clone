@@ -10,19 +10,27 @@ const PhoneOtp = () => {
   const handleSubmit = (event: React.FormEvent<HTMLFormElement>) => {
     event.preventDefault;
     setShowOtpInput(true);
-    };
-    const onOtpSubmit = (otp:string) => {
-        console.log("hello " ,otp);
-    }
+  };
+  const onOtpSubmit = (otp: string) => {
+    console.log("hello ", otp);
+  };
   return (
     <div>
-     { !showOtpInput ? <form onSubmit={handleSubmit}>
-        <input type="number" value={phoneNumber} onChange={handlePhoneNumber} />
-        <button type="submit">Submit</button>
-          </form> : <div>
-                  enter the otp send to {phoneNumber}
-                  <OtpInput length={4} Otpfunc={onOtpSubmit} />
-          </div>}
+      {!showOtpInput ? (
+        <form onSubmit={handleSubmit}>
+          <input
+            type="number"
+            value={phoneNumber}
+            onChange={handlePhoneNumber}
+          />
+          <button type="submit">Submit</button>
+        </form>
+      ) : (
+        <div>
+          enter the otp send to {phoneNumber}
+          <OtpInput length={4} Otpfunc={onOtpSubmit} />
+        </div>
+      )}
     </div>
   );
 };

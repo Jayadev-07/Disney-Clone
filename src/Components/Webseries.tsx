@@ -31,7 +31,7 @@ const Webseries = () => {
   };
   return (
     <div className="series-section">
-      <Navbar/>
+      <Navbar />
       <div className="series-container">
         {data.map((item, index) => (
           <div

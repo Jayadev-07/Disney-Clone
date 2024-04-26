@@ -1,5 +1,5 @@
 import starimg from "../images/my_space_login_in.webp";
-import "../scss/Loginbtn.scss";
+import "../scss/componentStyle/Loginbtn.scss";
 
 const Loginbtn = ({ setShow }: TDisplay) => {
   return (

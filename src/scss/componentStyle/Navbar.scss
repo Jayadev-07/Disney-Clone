@@ -1,18 +1,20 @@
 .nav {
-  z-index: 1000;
   position: fixed;
   left: 0;
-  width: 7rem;
+  width: 6rem;
   display: flex;
   justify-content: center;
   height: 100vh;
-  background: linear-gradient(to right, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0));
+  background-color: transparent;
+  &:hover {
+    z-index: 1000;
+  }
   .shadow {
     position: absolute;
     top: 0;
     left: 0;
-    background: linear-gradient(to right, rgba(0, 0, 0, 1), rgba(0, 0, 0, 0));
-    width: 18rem;
+    background: linear-gradient(to right, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0));
+    width: 40rem;
     height: 100vh;
     z-index: -100;
   }
@@ -23,12 +25,12 @@
     align-items: center;
     justify-content: center;
     .logo {
-      width: 3.6rem;
+      width: 3.2rem;
     }
     .subscribe {
-      margin-top: 15px;
+      margin-top: 12px;
       border-radius: 10px;
-      padding: 2px;
+      padding: 3px;
       outline: none;
       border: 1px solid transparent;
       display: flex;
@@ -36,7 +38,7 @@
       justify-content: center;
       background-color: #2c2928;
       color: #d7ad66;
-      font-size: 14px;
+      font-size: 12px;
       .icon {
         font-size: 18px;
       }
@@ -48,39 +50,40 @@
     align-items: center;
     justify-content: center;
     gap: 10px;
-    cursor: pointer;
     position: relative;
     .content-icons {
       display: flex;
       flex-direction: column;
-      align-items: center;
-      gap: 2.8rem;
+      justify-content: center;
+      gap: 2rem;
       width: 250px;
       .linker {
-        position: relative;
+        color: #acacac;
         display: flex;
+        cursor: pointer;
+        &:hover {
+          color: white;
+          scale: (1.1);
+        }
       }
       .icon-div {
-        display: flex;
-        align-items: center;
+        height: 27px;
         position: relative;
-        font-size: 22px;
+        margin-left: 6.7rem;
+        display: flex;
+        // background-color: #d7ad66;
+        font-size: 21px;
         flex-wrap: nowrap;
         color: #acacac;
         transition: all 0.1 s linear;
+        padding: 0;
         & h4 {
-          position: absolute;
-          left: 3rem;
-          width: 130px;
           padding: 0;
           margin: 0;
+          margin-left: 1rem;
         }
         .icons {
           display: flex;
-        }
-        &:hover {
-          transform: scale(1.1);
-          color: white;
         }
       }
     }
