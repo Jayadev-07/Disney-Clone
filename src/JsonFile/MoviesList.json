@@ -4,7 +4,11 @@
       "id": 1,
       "title": "Spider-Man: Across The Spider-Verse",
       "IMDb": "7.5/10",
+<<<<<<< HEAD
       "posterUrl": "https://cdn.theplaylist.net/wp-content/uploads/2023/06/01162809/spider-man-across-the-spider-verse.jpg"
+=======
+      "posterUrl": "https://deadline.com/wp-content/uploads/2023/06/MCDSPMA_SP065-e1697556774763.jpg"
+>>>>>>> origin/main
     },
     {
       "id": 2,
@@ -14,9 +18,15 @@
     },
     {
       "id": 3,
+<<<<<<< HEAD
       "title": "Rorschach",
       "IMDb": "8/10",
       "posterUrl": "https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/4938/1714069404938-i"
+=======
+      "title": "Pirates of the Caribbean",
+      "IMDb": "8/10",
+      "posterUrl": "https://imageio.forbes.com/specials-images/imageserve/6584c9e4ccf6bbfa8a131eb0/-Pirates-of-the-Caribbean--On-Stranger-Tides--Themed--Pirates-Day--At-Hot-Topic-Store/0x0.jpg?crop=3000,1689,x0,y173,safe&height=400&width=711&fit=bounds"
+>>>>>>> origin/main
     },
     {
       "id": 4,

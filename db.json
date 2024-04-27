@@ -3,8 +3,13 @@
     {
       "id": "37d3",
       "phoneNo": "916382754190",
+<<<<<<< HEAD
       "Otp": "6237",
       "expTime": "27/04/2024, 11:31 am",
+=======
+      "Otp": "6881",
+      "expTime": "26/04/2024, 06:16 pm",
+>>>>>>> origin/main
       "username": "jayadev",
       "age": "20",
       "gender": "Male"

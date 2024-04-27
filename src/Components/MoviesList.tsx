@@ -20,6 +20,7 @@ const MoviesList = () => {
     navigator("/videoplayer");
   };
   const finder = (a: string) => {
+<<<<<<< HEAD
     const searchValue = a.trim().toLowerCase();
     const filteredValue = data.filter((item) => {
       return (
@@ -28,6 +29,12 @@ const MoviesList = () => {
         item.genres.some((genre) => genre.toLowerCase().includes(searchValue)) ||
         item.cast?.some((cas) => cas.toLowerCase().includes(searchValue))
       );
+=======
+    console.log(a);
+    const searchValue = a.trim().toLowerCase();
+    const filteredValue = data.filter((item) => {
+      return item.title.toLowerCase().includes(searchValue);
+>>>>>>> origin/main
     });
     setMovielist(filteredValue);
   };
@@ -50,8 +57,17 @@ const MoviesList = () => {
           {movielist?.length != 0 ? (
             <>
               {movielist?.map((item, index) => (
+<<<<<<< HEAD
                 <div key={index} className="data-item">
                   <div className="img-box" onClick={() => handleClick(index)}>
+=======
+                <div
+                  key={index}
+                  className="data-item"
+                  onClick={() => handleClick(index)}
+                >
+                  <div className="img-box">
+>>>>>>> origin/main
                     <img src={`${item.thumbnail}`} />
                   </div>
                   <p className="heading">{`${item.title} | ${item.year}`}</p>

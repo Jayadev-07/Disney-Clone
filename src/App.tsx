@@ -12,7 +12,10 @@ import PrivatRouter from "./Components/PrivatRouter";
 import Other from "./Components/Other";
 import DisplayUserdata from "./Components/DisplayUserdata";
 import MoviesPage from "./pages/MoviesPage";
+<<<<<<< HEAD
 import CategoryPage from "./pages/CategoryPage";
+=======
+>>>>>>> origin/main
 
 const App = () => {
   return (
@@ -71,6 +74,7 @@ const App = () => {
               </PrivatRouter>
             }
           />
+<<<<<<< HEAD
           <Route
             path="/category"
             element={
@@ -79,6 +83,8 @@ const App = () => {
               </PrivatRouter>
             }
           />
+=======
+>>>>>>> origin/main
           <Route path="/user" element={<DisplayUserdata />} />
           <Route path="*" element={<Other />} />
         </Routes>

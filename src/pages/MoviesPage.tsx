@@ -25,8 +25,17 @@ const MoviesPage = () => {
         <Navbar />
         <div className="data-container">
           {movielist?.map((item, index) => (
+<<<<<<< HEAD
             <div key={index} className="data-item">
               <div className="img-box" onClick={() => handleClick(index)}>
+=======
+            <div
+              key={index}
+              className="data-item"
+              onClick={() => handleClick(index)}
+            >
+              <div className="img-box">
+>>>>>>> origin/main
                 <img src={`${item.thumbnail}`} />
               </div>
               <p className="heading">{`${item.title} | ${item.year}`}</p>
