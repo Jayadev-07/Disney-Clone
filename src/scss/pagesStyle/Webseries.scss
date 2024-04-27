@@ -1,8 +1,8 @@
 .series-section {
   margin-left: 8rem;
-  height: 100vh;
+  min-height: 100vh;
+  background-color: #0d1423;
   .series-container {
-    margin-top: 20px;
     display: grid;
     grid-template-columns: repeat(6, 1fr);
     .whole {
@@ -30,7 +30,7 @@
         .series-img2 {
           width: 100%;
           border-radius: 5px;
-          background-color: #0D1423;
+          background-color: #0d1423;
           & img {
             width: 100%;
             height: 250px;
@@ -49,11 +49,11 @@
             font-weight: 600;
           }
           .cast {
-            margin:0;
+            margin: 0;
             padding-bottom: 5px;
             font-size: 13px;
           }
-        }  
+        }
       }
     }
   }

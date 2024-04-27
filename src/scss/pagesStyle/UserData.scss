@@ -52,13 +52,13 @@
           color: black;
           cursor: pointer;
         }
-        .active{
-            background-color:#555555;
-            color: white;
+        .active {
+          background-color: #555555;
+          color: white;
         }
       }
       & button {
-        background-color:  #0959e4;
+        background-color: #0959e4;
         color: white;
         font-weight: 600;
         font-size: 20px;
@@ -72,7 +72,6 @@
         justify-content: center;
         border-radius: 10px;
         cursor: pointer;
-       
       }
     }
   }

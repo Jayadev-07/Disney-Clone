@@ -24,4 +24,3 @@ const useSeriesApi = (url: string) => {
 };
 
 export default useSeriesApi;
-

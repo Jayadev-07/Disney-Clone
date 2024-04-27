@@ -1,17 +1,23 @@
-import "../scss/Navbar.scss";
+import "../scss/componentStyle/Navbar.scss";
 import disney from "../images/disneyplus.svg";
 import { FaRegUserCircle } from "react-icons/fa";
 import { BiCameraMovie, BiCategory, BiSearch } from "react-icons/bi";
 import { GoHomeFill } from "react-icons/go";
-import { MdMonitor, MdOutlineKeyboardArrowRight } from "react-icons/md";
+import { MdOutlineKeyboardArrowRight } from "react-icons/md";
 import { PiVolleyballBold } from "react-icons/pi";
 import { useState } from "react";
 import { Link } from "react-router-dom";
 import Store from "../Zustand/Store";
 const Navbar = () => {
-  const { IsLogin} = Store();
+  const { IsLogin } = Store();
   const [hover, setHover] = useState(false);
-
+  const AddclassList = () => {
+    const Items: NodeListOf<HTMLAnchorElement> =
+      document.querySelectorAll(".linker");
+    Items.forEach((ele) => {
+      ele.classList.remove;
+    });
+  };
   return (
     <div className="nav">
       <div>
@@ -28,17 +34,17 @@ const Navbar = () => {
               setHover(false);
             }}
           >
-            <Link to={IsLogin ? "/user":"/Login"}className="linker">
-              <div className="icon-div">
+            <div className="icon-div">
+              <Link to={IsLogin ? "/user" : "/Login"} className="linker">
                 <FaRegUserCircle
                   className="icons icon1"
                   onMouseEnter={() => {
                     setHover(true);
                   }}
                 />{" "}
-                {hover ? <h4 className="text">My Space</h4> : <h4></h4>}
-              </div>
-            </Link>
+                {hover ? <h4 className="text">Profile</h4> : <h4></h4>}
+              </Link>
+            </div>
             <div className="icon-div">
               <Link to="/search" className="linker">
                 <BiSearch
@@ -62,22 +68,15 @@ const Navbar = () => {
               </Link>
             </div>
             <div className="icon-div">
-              <MdMonitor
-                className="icons icon4"
-                onMouseEnter={() => {
-                  setHover(true);
-                }}
-              />{" "}
-              {hover && <h4 className="text">TV</h4>}
-            </div>
-            <div className="icon-div">
-              <BiCameraMovie
-                className="icons icon5"
-                onMouseEnter={() => {
-                  setHover(true);
-                }}
-              />{" "}
-              {hover && <h4 className="text">Movies</h4>}
+              <Link to="/movies" className="linker">
+                <BiCameraMovie
+                  className="icons icon5"
+                  onMouseEnter={() => {
+                    setHover(true);
+                  }}
+                />{" "}
+                {hover && <h4 className="text">Movies</h4>}
+              </Link>
             </div>
             <div className="icon-div">
               <Link to="/series" className="linker">
@@ -91,13 +90,15 @@ const Navbar = () => {
               </Link>
             </div>
             <div className="icon-div">
-              <BiCategory
-                className="icons icon7"
-                onMouseEnter={() => {
-                  setHover(true);
-                }}
-              />{" "}
-              {hover && <h4 className="text">Categories</h4>}
+              <Link to="/category" className="linker">
+                <BiCategory
+                  className="icons icon7"
+                  onMouseEnter={() => {
+                    setHover(true);
+                  }}
+                />{" "}
+                {hover && <h4 className="text">Categories</h4>}
+              </Link>
             </div>
           </div>
         </div>

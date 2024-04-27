@@ -16,11 +16,11 @@ const useUserData = (url: string) => {
       console.log(userData.length);
 
       if (userData.length > 0) {
-          const path = url + "" + `/${userData[0].id}`;
-          const Ditem = userData.map((item) => ({
-              ...item,
-              ...UserData
-          }))
+        const path = url + "" + `/${userData[0].id}`;
+        const Ditem = userData.map((item) => ({
+          ...item,
+          ...UserData,
+        }));
         console.log(path);
         if (UserData) UserUpdate(Ditem[0], path);
       }
@@ -41,7 +41,7 @@ const useUserData = (url: string) => {
   };
 
   // update existing user OTP
-  const UserUpdate = async (data:Tdata, path: string) => {
+  const UserUpdate = async (data: Tdata, path: string) => {
     try {
       const response = await axios.put(path, data);
       setData(response.data);
@@ -60,5 +60,5 @@ type Tdata = {
   Otp: string;
   expTime: string;
   id?: string;
-  username?:string
+  username?: string;
 };

@@ -9,8 +9,8 @@ export interface IVideoType {
   source: string;
   id?: string;
   thumbnail?: string;
-  plot?: string,
-  duration?:string
+  plot?: string;
+  duration?: string;
 }
 
 interface IVideoData {
@@ -28,7 +28,7 @@ const VideoStore = create<IVideoData>((set) => ({
     source: "",
     id: "",
     thumbnail: "",
-    plot:""
+    plot: "",
   },
   setVideoData: (data: IVideoType) => set({ VideoData: data }),
 }));
