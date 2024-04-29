@@ -12,10 +12,14 @@ import PrivatRouter from "./Components/PrivatRouter";
 import Other from "./Components/Other";
 import DisplayUserdata from "./Components/DisplayUserdata";
 import MoviesPage from "./pages/MoviesPage";
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 import CategoryPage from "./pages/CategoryPage";
 =======
 >>>>>>> origin/main
+=======
+import CategoryPage from "./pages/CategoryPage";
+>>>>>>> Stashed changes
 
 const App = () => {
   return (
@@ -74,17 +78,27 @@ const App = () => {
               </PrivatRouter>
             }
           />
+<<<<<<< Updated upstream
 <<<<<<< HEAD
+=======
+>>>>>>> Stashed changes
           <Route
             path="/category"
             element={
               <PrivatRouter>
+<<<<<<< Updated upstream
                 <CategoryPage/>
               </PrivatRouter>
             }
           />
 =======
 >>>>>>> origin/main
+=======
+                <CategoryPage />
+              </PrivatRouter>
+            }
+          />
+>>>>>>> Stashed changes
           <Route path="/user" element={<DisplayUserdata />} />
           <Route path="*" element={<Other />} />
         </Routes>

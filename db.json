@@ -3,6 +3,7 @@
     {
       "id": "37d3",
       "phoneNo": "916382754190",
+<<<<<<< Updated upstream
 <<<<<<< HEAD
       "Otp": "6237",
       "expTime": "27/04/2024, 11:31 am",
@@ -10,6 +11,10 @@
       "Otp": "6881",
       "expTime": "26/04/2024, 06:16 pm",
 >>>>>>> origin/main
+=======
+      "Otp": "3190",
+      "expTime": "29/04/2024, 06:24 pm",
+>>>>>>> Stashed changes
       "username": "jayadev",
       "age": "20",
       "gender": "Male"
@@ -81,6 +86,15 @@
       "expTime": "25/04/2024, 06:12 pm",
       "username": "jayadev",
       "age": "99",
+      "gender": "Male"
+    },
+    {
+      "id": "c99f",
+      "phoneNo": "916985321470",
+      "Otp": "3709",
+      "expTime": "28/04/2024, 08:06 am",
+      "username": "ram",
+      "age": 0,
       "gender": "Male"
     }
   ]
