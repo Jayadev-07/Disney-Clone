@@ -1,6 +1,7 @@
 import axios from "axios";
 import { useEffect, useState } from "react";
 import useUserList from "./useUserList";
+import { IUserDataType } from "../Zustand/Store";
 
 const useUserData = (url: string) => {
   const [UserData, setUserData] = useState<Tdata>();
@@ -51,7 +52,19 @@ const useUserData = (url: string) => {
     }
   };
 
-  return { data, postData };
+
+  const UpdateUser = async (data: IUserDataType) => {
+    const from = url + "" + data.id;
+    console.log(from)
+    try {
+      const response = await axios.put(from, data);
+      setData(response.data);
+      console.log("yes", response.data);
+    } catch {
+      console.log("something went wrong");
+    }
+  }
+  return { data, postData, UpdateUser };
 };
 
 export default useUserData;

@@ -1427,6 +1427,302 @@
           ]
         }
       ]
+    },
+    {
+      "id": 11,
+      "title": "Blade",
+      "genre": ["Action", "Thriller"],
+      "releaseYear": 1998,
+      "thumnail": "https://sportshub.cbsistatic.com/i/2023/06/14/d1bf6a95-f409-4339-b9ab-2961e0b7d3e5/blade1-cover-frank-miller.jpg?auto=webp&width=3339&height=5109&crop=0.654:1,smart",
+      "seasons": [
+        {
+          "seasonName": "Season 1",
+          "numberOfEpisodes": 4,
+          "description": "A half-vampire, half-mortal man becomes a protector of the mortal race, while slaying evil vampires.",
+          "rating": 7.5,
+          "episodes": [
+            {
+              "episodeNumber": 1,
+              "source": "https://i.imgur.com/JCavjGh.mp4",
+              "title": "Pilot",
+              "duration": "45 minutes",
+              "plot": "Blade hunts down vampires who killed his mother."
+            },
+            {
+              "episodeNumber": 2,
+              "source": "https://i.imgur.com/JCavjGh.mp4",
+              "title": "Bloodlust",
+              "duration": "50 minutes",
+              "plot": "Blade teams up with a vampire hunter to stop a bloodsucker who's harvesting humans for a secret project."
+            },
+            {
+              "episodeNumber": 3,
+              "source": "https://i.imgur.com/JCavjGh.mp4",
+              "title": "Night Terror",
+              "duration": "48 minutes",
+              "plot": "A vampire with a vendetta traps Blade in a dream world where he must confront his past."
+            },
+            {
+              "episodeNumber": 4,
+              "source": "https://i.imgur.com/JCavjGh.mp4",
+              "title": "Final Confrontation",
+              "duration": "55 minutes",
+              "plot": "Blade faces off against the vampire kingpin in a final battle for the fate of humanity."
+            }
+          ]
+        },
+        {
+          "seasonName": "Season 2",
+          "numberOfEpisodes": 3,
+          "description": "Blade continues his mission to rid the world of vampires while uncovering deeper conspiracies.",
+          "rating": 8.0,
+          "episodes": [
+            {
+              "episodeNumber": 1,
+              "source": "https://i.imgur.com/JCavjGh.mp4",
+              "title": "Resurrection",
+              "duration": "47 minutes",
+              "plot": "Blade returns from the brink of death to face a new vampire threat."
+            },
+            {
+              "episodeNumber": 2,
+              "source": "https://i.imgur.com/JCavjGh.mp4",
+              "title": "Betrayal",
+              "duration": "49 minutes",
+              "plot": "Blade's trust is tested when a friend turns out to be working for the vampires."
+            },
+            {
+              "episodeNumber": 3,
+              "source": "https://i.imgur.com/JCavjGh.mp4",
+              "title": "Endgame",
+              "duration": "53 minutes",
+              "plot": "Blade discovers the vampires' ultimate plan and must stop them before it's too late."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "title": "The Transporter",
+      "genre": ["Action", "Thriller"],
+      "releaseYear": 2002,
+      "thumnail": "https://m.media-amazon.com/images/I/81pxU6tP4HL._AC_UF1000,1000_QL80_.jpg",
+      "seasons": [
+        {
+          "seasonName": "Season 1",
+          "numberOfEpisodes": 4,
+          "description": "A former special forces operative turned courier driver delivers packages, no questions asked, until he gets caught up in a dangerous conspiracy.",
+          "rating": 7.2,
+          "episodes": [
+            {
+              "episodeNumber": 1,
+              "source": "https://i.imgur.com/JCavjGh.mp4",
+              "title": "The Package",
+              "duration": "42 minutes",
+              "plot": "Frank Martin, the transporter, must deliver a mysterious package while evading deadly pursuers."
+            },
+            {
+              "episodeNumber": 2,
+              "source": "https://i.imgur.com/JCavjGh.mp4",
+              "title": "The Deal",
+              "duration": "45 minutes",
+              "plot": "Frank Martin gets entangled in a dangerous deal involving a powerful crime syndicate."
+            },
+            {
+              "episodeNumber": 3,
+              "source": "https://i.imgur.com/JCavjGh.mp4",
+              "title": "The Setup",
+              "duration": "48 minutes",
+              "plot": "Frank Martin is framed for a crime he didn't commit, forcing him to go on the run."
+            },
+            {
+              "episodeNumber": 4,
+              "source": "https://i.imgur.com/JCavjGh.mp4",
+              "title": "The Escape",
+              "duration": "50 minutes",
+              "plot": "Frank Martin must escape from a heavily guarded compound after being captured by his enemies."
+            }
+          ]
+        },
+        {
+          "seasonName": "Season 2",
+          "numberOfEpisodes": 3,
+          "description": "Frank Martin continues his high-stakes deliveries while facing new challenges and enemies.",
+          "rating": 7.5,
+          "episodes": [
+            {
+              "episodeNumber": 1,
+              "source": "https://i.imgur.com/JCavjGh.mp4",
+              "title": "The Chase",
+              "duration": "47 minutes",
+              "plot": "Frank Martin races against time to deliver a crucial package while being pursued by multiple parties."
+            },
+            {
+              "episodeNumber": 2,
+              "source": "https://i.imgur.com/JCavjGh.mp4",
+              "title": "The Betrayal",
+              "duration": "49 minutes",
+              "plot": "Frank Martin's loyalty is tested when a trusted ally betrays him during a dangerous mission."
+            },
+            {
+              "episodeNumber": 3,
+              "source": "https://i.imgur.com/JCavjGh.mp4",
+              "title": "The Showdown",
+              "duration": "53 minutes",
+              "plot": "Frank Martin faces off against his deadliest adversary yet in a final showdown."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "title": "Lilo & Stitch: The Series",
+      "genre": ["Animation", "Adventure", "Comedy"],
+      "releaseYear": 2003,
+      "thumnail": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/D667F0F026EBCF0BBD1DAB3380830EE0485E39EB51CE85F28340E28C9431BA3A/scale?width=506&amp;aspectRatio=2.00&amp;format=webp",
+      "seasons": [
+        {
+          "seasonName": "Season 1",
+          "numberOfEpisodes": 4,
+          "description": "Lilo and Stitch continue their adventures in Hawaii, capturing escaped experiments and finding them new homes.",
+          "rating": 7.8,
+          "episodes": [
+            {
+              "episodeNumber": 1,
+              "source": "https://i.imgur.com/JCavjGh.mp4",
+              "title": "Richter",
+              "duration": "22 minutes",
+              "plot": "A new experiment causes earthquakes, threatening the island."
+            },
+            {
+              "episodeNumber": 2,
+              "source": "https://i.imgur.com/JCavjGh.mp4",
+              "title": "Phantasmo",
+              "duration": "22 minutes",
+              "plot": "An experiment that can shape-shift causes mischief in town."
+            },
+            {
+              "episodeNumber": 3,
+              "source": "https://i.imgur.com/JCavjGh.mp4",
+              "title": "Clip",
+              "duration": "22 minutes",
+              "plot": "Lilo teaches Stitch about sharing, but an experiment that duplicates objects causes trouble."
+            },
+            {
+              "episodeNumber": 4,
+              "source": "https://i.imgur.com/JCavjGh.mp4",
+              "title": "Yin",
+              "duration": "22 minutes",
+              "plot": "An experiment that splits people into two separate beings wreaks havoc."
+            }
+          ]
+        },
+        {
+          "seasonName": "Season 2",
+          "numberOfEpisodes": 3,
+          "description": "Lilo and Stitch face new challenges as they encounter more experiments and learn valuable lessons.",
+          "rating": 8.2,
+          "episodes": [
+            {
+              "episodeNumber": 1,
+              "source": "https://i.imgur.com/JCavjGh.mp4",
+              "title": "Slugger",
+              "duration": "22 minutes",
+              "plot": "An experiment that creates energy blasts threatens the island's baseball game."
+            },
+            {
+              "episodeNumber": 2,
+              "source": "https://i.imgur.com/JCavjGh.mp4",
+              "title": "Finder",
+              "duration": "22 minutes",
+              "plot": "A creature that can find anything causes chaos when it falls into the wrong hands."
+            },
+            {
+              "episodeNumber": 3,
+              "source": "https://i.imgur.com/JCavjGh.mp4",
+              "title": "Sinker",
+              "duration": "22 minutes",
+              "plot": "An experiment that sinks ships wreaks havoc in the waters around Hawaii."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "title": "Superman: The Animated Series",
+      "genre": ["Action", "Adventure", "Animation"],
+      "releaseYear": 1996,
+      "thumnail": "https://images.justwatch.com/poster/276681512/s718/superman-the-animated-series.jpg",
+      "seasons": [
+        {
+          "seasonName": "Season 1",
+          "numberOfEpisodes": 4,
+          "description": "Follow the adventures of Superman as he protects Metropolis from various threats.",
+          "rating": 8.5,
+          "episodes": [
+            {
+              "episodeNumber": 1,
+              "source": "https://i.imgur.com/JCavjGh.mp4",
+              "title": "The Last Son of Krypton: Part 1",
+              "duration": "20 minutes",
+              "plot": "The origins of Superman are explored as he arrives on Earth from the planet Krypton."
+            },
+            {
+              "episodeNumber": 2,
+              "source": "https://i.imgur.com/JCavjGh.mp4",
+              "title": "The Last Son of Krypton: Part 2",
+              "duration": "20 minutes",
+              "plot": "Superman embraces his role as Earth's protector while facing off against the villainous Lex Luthor."
+            },
+            {
+              "episodeNumber": 3,
+              "source": "https://i.imgur.com/JCavjGh.mp4",
+              "title": "The Last Son of Krypton: Part 3",
+              "duration": "20 minutes",
+              "plot": "Superman must save Metropolis from destruction as the sinister plot of Luthor unfolds."
+            },
+            {
+              "episodeNumber": 4,
+              "source": "https://i.imgur.com/JCavjGh.mp4",
+              "title": "Fun and Games",
+              "duration": "20 minutes",
+              "plot": "Superman faces a new villain who is causing chaos in Metropolis with deadly toys."
+            }
+          ]
+        },
+        {
+          "seasonName": "Season 2",
+          "numberOfEpisodes": 3,
+          "description": "Superman continues to protect Metropolis from various threats while facing personal challenges.",
+          "rating": 8.8,
+          "episodes": [
+            {
+              "episodeNumber": 1,
+              "source": "https://i.imgur.com/JCavjGh.mp4",
+              "title": "Identity Crisis",
+              "duration": "20 minutes",
+              "plot": "Superman's secret identity is threatened when a villain discovers his alter ego."
+            },
+            {
+              "episodeNumber": 2,
+              "source": "https://i.imgur.com/JCavjGh.mp4",
+              "title": "Target",
+              "duration": "20 minutes",
+              "plot": "Superman must protect Lois Lane from an assassination attempt while investigating its origin."
+            },
+            {
+              "episodeNumber": 3,
+              "source": "https://i.imgur.com/JCavjGh.mp4",
+              "title": "Action Figures",
+              "duration": "20 minutes",
+              "plot": "Superman faces off against a group of villains who are exacting revenge on him using action figures."
+            }
+          ]
+        }
+      ]
     }
   ]
 }

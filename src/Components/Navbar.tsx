@@ -3,23 +3,37 @@ import disney from "../images/disneyplus.svg";
 import { FaRegUserCircle } from "react-icons/fa";
 import { BiCameraMovie, BiCategory, BiSearch } from "react-icons/bi";
 import { GoHomeFill } from "react-icons/go";
-import { MdMonitor, MdOutlineKeyboardArrowRight } from "react-icons/md";
+import { MdOutlineKeyboardArrowRight } from "react-icons/md";
 import { PiVolleyballBold } from "react-icons/pi";
 import { useState } from "react";
 import { Link } from "react-router-dom";
 import Store from "../Zustand/Store";
 const Navbar = () => {
+<<<<<<< Updated upstream
   const { IsLogin } = Store();
+=======
+  const { IsLogin, UserData } = Store();
+>>>>>>> Stashed changes
   const [hover, setHover] = useState(false);
-
+  const AddclassList = () => {
+    const Items: NodeListOf<HTMLAnchorElement> =
+      document.querySelectorAll(".linker");
+    Items.forEach((ele) => {
+      ele.classList.remove;
+    });
+  };
   return (
     <div className="nav">
       <div>
         <div className="logo-box">
           <img src={disney} className="logo" />
-          <button className="subscribe">
-            Subscribe <MdOutlineKeyboardArrowRight className="icon" />
-          </button>
+          {!UserData.subscription && (
+            <button className="subscribe">
+              <Link to="/payment" className="linker-sub">
+                Subscribe <MdOutlineKeyboardArrowRight className="icon" />
+              </Link>
+            </button>
+          )}
         </div>
         <div className="holder">
           <div
@@ -84,13 +98,15 @@ const Navbar = () => {
               </Link>
             </div>
             <div className="icon-div">
-              <BiCategory
-                className="icons icon7"
-                onMouseEnter={() => {
-                  setHover(true);
-                }}
-              />{" "}
-              {hover && <h4 className="text">Categories</h4>}
+              <Link to="/category" className="linker">
+                <BiCategory
+                  className="icons icon7"
+                  onMouseEnter={() => {
+                    setHover(true);
+                  }}
+                />{" "}
+                {hover && <h4 className="text">Categories</h4>}
+              </Link>
             </div>
           </div>
         </div>
