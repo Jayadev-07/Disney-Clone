@@ -13,12 +13,17 @@ import Other from "./Components/Other";
 import DisplayUserdata from "./Components/DisplayUserdata";
 import MoviesPage from "./pages/MoviesPage";
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 import CategoryPage from "./pages/CategoryPage";
 =======
 >>>>>>> origin/main
 =======
 import CategoryPage from "./pages/CategoryPage";
+>>>>>>> Stashed changes
+=======
+import CategoryPage from "./pages/CategoryPage";
+import Payment from "./pages/Payment";
 >>>>>>> Stashed changes
 
 const App = () => {
@@ -79,13 +84,17 @@ const App = () => {
             }
           />
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 <<<<<<< HEAD
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
           <Route
             path="/category"
             element={
               <PrivatRouter>
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
                 <CategoryPage/>
               </PrivatRouter>
@@ -94,7 +103,20 @@ const App = () => {
 =======
 >>>>>>> origin/main
 =======
+=======
+>>>>>>> Stashed changes
                 <CategoryPage />
+              </PrivatRouter>
+            }
+          />
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
+          <Route
+            path="/payment"
+            element={
+              <PrivatRouter>
+                <Payment />
               </PrivatRouter>
             }
           />
@@ -104,6 +126,10 @@ const App = () => {
         </Routes>
       </BrowserRouter>
     </>
+<<<<<<< Updated upstream
+=======
+
+>>>>>>> Stashed changes
     // <><CategoryPage/></>
   );
 };

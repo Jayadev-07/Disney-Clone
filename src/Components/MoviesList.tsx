@@ -21,13 +21,17 @@ const MoviesList = () => {
   };
   const finder = (a: string) => {
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 <<<<<<< HEAD
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
     const searchValue = a.trim().toLowerCase();
     const filteredValue = data.filter((item) => {
       return (
         item.title.toLowerCase().includes(searchValue) ||
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
         (item.year && item.year.toString().toLowerCase().includes(searchValue)) ||
         item.genres.some((genre) => genre.toLowerCase().includes(searchValue)) ||
@@ -40,6 +44,8 @@ const MoviesList = () => {
       return item.title.toLowerCase().includes(searchValue);
 >>>>>>> origin/main
 =======
+=======
+>>>>>>> Stashed changes
         (item.year &&
           item.year.toString().toLowerCase().includes(searchValue)) ||
         item.genres.some((genre) =>
@@ -47,6 +53,9 @@ const MoviesList = () => {
         ) ||
         item.cast?.some((cas) => cas.toLowerCase().includes(searchValue))
       );
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
     });
     setMovielist(filteredValue);
@@ -71,6 +80,7 @@ const MoviesList = () => {
             <>
               {movielist?.map((item, index) => (
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 <<<<<<< HEAD
                 <div key={index} className="data-item">
                   <div className="img-box" onClick={() => handleClick(index)}>
@@ -82,6 +92,10 @@ const MoviesList = () => {
                 >
                   <div className="img-box">
 >>>>>>> origin/main
+=======
+                <div key={index} className="data-item">
+                  <div className="img-box" onClick={() => handleClick(index)}>
+>>>>>>> Stashed changes
 =======
                 <div key={index} className="data-item">
                   <div className="img-box" onClick={() => handleClick(index)}>

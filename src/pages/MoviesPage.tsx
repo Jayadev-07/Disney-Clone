@@ -26,6 +26,7 @@ const MoviesPage = () => {
         <div className="data-container">
           {movielist?.map((item, index) => (
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 <<<<<<< HEAD
             <div key={index} className="data-item">
               <div className="img-box" onClick={() => handleClick(index)}>
@@ -37,6 +38,10 @@ const MoviesPage = () => {
             >
               <div className="img-box">
 >>>>>>> origin/main
+=======
+            <div key={index} className="data-item">
+              <div className="img-box" onClick={() => handleClick(index)}>
+>>>>>>> Stashed changes
 =======
             <div key={index} className="data-item">
               <div className="img-box" onClick={() => handleClick(index)}>

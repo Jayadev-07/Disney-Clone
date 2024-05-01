@@ -19,6 +19,11 @@ export interface IUserDataType {
   expTime: string;
   id?: string;
   username?: string;
+<<<<<<< Updated upstream
+=======
+  pack?: string;
+  subscription?: Date;
+>>>>>>> Stashed changes
 }
 
 export default Store;

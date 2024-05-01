@@ -9,7 +9,11 @@ import { useState } from "react";
 import { Link } from "react-router-dom";
 import Store from "../Zustand/Store";
 const Navbar = () => {
+<<<<<<< Updated upstream
   const { IsLogin } = Store();
+=======
+  const { IsLogin, UserData } = Store();
+>>>>>>> Stashed changes
   const [hover, setHover] = useState(false);
   const AddclassList = () => {
     const Items: NodeListOf<HTMLAnchorElement> =
@@ -23,9 +27,13 @@ const Navbar = () => {
       <div>
         <div className="logo-box">
           <img src={disney} className="logo" />
-          <button className="subscribe">
-            Subscribe <MdOutlineKeyboardArrowRight className="icon" />
-          </button>
+          {!UserData.subscription && (
+            <button className="subscribe">
+              <Link to="/payment" className="linker-sub">
+                Subscribe <MdOutlineKeyboardArrowRight className="icon" />
+              </Link>
+            </button>
+          )}
         </div>
         <div className="holder">
           <div
